@@ -1,0 +1,82 @@
+//Purist Weeb Edition
+//Someone asked for 'Fleshlight' to be changed back to 'Onahole' for personal taste, without having to hunt them down and change it themselves. Fine, I guess, I'll just slap on another edition section, why not?
+//Instructions are in the Lactose Intolerance edition, but to summarize, remove the _ in this file's name to get these instead of their localized variants.
+デバイス連動機能の使用=Connect to Automatic Onahole
+高級オナホ=Luxury Onahole
+E 手属性n連携(自陣の『知恵と失望の淫魔』を行動済にする） 搾精(3) 想力生成(1)n全ての連携カードの封印減少(2)n搾精対象の山札の先頭からカードを3枚見て1枚を選ぶ。それを手札に加えて残りを捨札へ送る。n連携カードのいずれかがオナホ装備時、追加で『想力結晶』を自陣に生成する。n封印解除状態の連携カード毎に、この能力の追撃+1=Hand Attribute:This ability may only be cast when there is a Succubus of Wisdom and Disappointment on your field that can act, this ability consumes her action as well. Squeeze <color%3D#00ff00>(-3)</color>, Generate <color%3D#009eff>(+1)</color>, Draw three cards from the top of the target's deck, choose one to add one to your hand and send the remaining two to their owner's graveyard.nBoth squeezers Unseal <color%3D#ff00de>(-2)</color>.nIf either squeezer has an equipped Onahole, generate 1 'Mana Crystal.'nIf either squeezer is unsealed, this ability gains pursuit 1. This effect stacks.
+E 巨乳化限定 乳手属性n搾精(1) 封印減少(1)n搾精対象の山札からカードを1枚引いた後、手札を1枚選んで捨札へ送る。nオナホ装備時、この能力の追撃+1=Big Breasts Attribute: Squeeze <color%3D#00ff00>(-1)</color>, Unseal <color%3D#ff00de>(-1)</color>.nDraw a card from the target's deck, then choose a card to discard from your hand.nIf equipped with 'Luxury Onahole', this ability has Pursuit 1.
+E 手属性n搾精(2) 想力生成(1) 封印減少(1) n搾精対象の山札の一番上を見て、それを捨札に送っても良い。nオナホ装備時または封印解除時、代わりにそれを手札に加えても良い。=Hand Attribute: Squeeze <color%3D#00ff00>(-2)</color>,nUnseal <color%3D#ff00de>(-1)</color>, Generate <color%3D#009eff>(+1)</color>.nLook at the top card of the target's deck, and then send it to their graveyard./nIf unsealed or equipped with Onahole, add the card to your hand instead of discarding it.
+E 乳手属性nこの能力はあなたに対してのみ使用できる。n搾精(2) 母乳値を2取り除く。2枚カードを引いた後、3枚選んで捨てる。nオナホ装備時、上記効果の搾精値とカードを引く枚数が1ずつ増加する。nその後このカードがパートナーで封印解除かつあなたの山札が0枚の場合、あなたはゲームに勝利する。=Breast Attribute: Squeeze <color%3D#00ff00>(-2)</color>.nRemove 2 'Breast Milk' levels, if you cannot, this ability cannot be used.nDraw 2 cards, then choose 3 to discard.nIf equipped with 'Luxury Onahole'; Squeeze <color%3D#00ff00>(-3)</color> and Draw 3 cards instead.nThis ability cannot be used against the opponent.nPartner Only: If Unsealed, and you have no cards remaining in your deck after drawing; you win the duel.nThis effect will not trigger unless this Partnered card is in her original owner's control, and cannot be triggered by Return to your Maker.
+E 吸精 手属性n搾精(2)封印を2減少する。想力生成(1)n封印解除時、代わりに搾精(4) 搾精されたプレイヤーは手札からカードを2枚選んで捨てる。nオナホ装備時、追加で搾精(1)して搾精対象のプレイヤーの山札からカードを1枚引く。=Hand Attribute: Squeeze <color%3D#00ff00>(-2)</color>,\nUnseal <color%3D#ff00de>(-1)</color>, Generate <color%3D#009eff>(+1)</color>.\nLook at the top card of the target's deck, and then you may send the card to its owner's graveyard. This card remains face-up for the rest of the game, even in the opponent's hand or set if Reactive.\nIf unsealed or equipped with 'Luxury Onahole', you may then choose to add the card to your hand.
+場に出た時、『栞の自動オナホール』を自陣に出す=When summoned, summon one 'Industrial Onahole' to your field.
+栞の自動オナホール=Industrial Onahole
+使い捨てオナホ=Cheap Onahole
+<color%3D#ff9e00>「オナホ装備」</color>n手属性の能力が変化する。※効能には個人差があります。=<color%3D#ff9e00>"Equipped Onahole"</color>nModify this squeezer's hand-attiribute abilities as detailed in their ability description.
+高級オナホ=Luxury Onahole
+//Schoolgirl section. Mostly just changing her sibling play to their Japanese counterparts, plus one time she references a 'Sensei'. Technically unfinished, since every time I rephrased a line so she called herself your little sister instead of you her big brother... None of that is OG, so I don't know the actual weebism for Little Sister. Still, they're all here, I guess.
+//Ability1
+あれれ？nお兄さん、おちんちん丸出しだよ？n恥ずかしくないの～？=Aren't you embarrasednto be showing your dick in frontnof your little sister?
+うりうり～♪nお兄さんのおちんちんnいじめられてばかりだねn少しはやり返さないの～？=Hahah~♪nYou can't keep your dick away fromnyour little sister, try harder next time~?
+ブルマにぐいぐいnおちんちん押し付けちゃってnお兄さん、ヘンタイさんだね～♪=You're such a perv tonbe rubbing your dick onnyour little sister's shorts~♪
+いっちにっ、さんっしっ♪nあはっ、必死にガマンしてるね～♪=Ehehe, Onīsan♪nYou're so desperate to put it in me~♪
+お兄さんのヘンタイおちんちんnすっかりブルマ専用ミルクサーバーにnなっちゃったね♪=My onīsan's perverted dick has becomena semen dispenser for my shorts♪
+こ～んなヘンタイお兄さん相手にはnいくら私でも、無理無理♪=No matter how much I squeeze, mynperverted onīsan is never satisfied♪
+精液の無駄射精ありがと、お兄さん♪n作った想力、マスターさんにn全部あげちゃうけどね♪=Thank you for wasting your semen on me, Onīsan♪nAll this mana belongs to the Master♪
+おちんちんずりずり体操、終了～♪nヘンタイお兄さんも、いっぱい精液n射精してくれてありがとね♪=Well, that finishes my gymnastic routine~♪ Thank younfor cumming so much for your sister, you perv♪
+止めてほしい？nおちんちんバッキバキにしてるnちょーヘンタイなお兄さんにnそんなお願いする権利ないよ～！=Do you want to stop?nYou don't have the right to ask yournlittle sister that, not when you're so crazy for me!
+もしかして、ブルマでしごかれたくてnおちんちん丸出しにしてるの？nヘンタイさんにも程があるよ……=Maybe you want to squeeze your dick in my bare ass?nYou're pretty perverted, onīsan...
+こ～らっ！nまだクールダウン中なんだからnヘンタイお兄さんはn最後までおちんちん勃てといてよ！=Keep it up until the end, onīsan!nI bet you're perverted enough to enjoy this!
+ねぇ、お兄さんn今度また、一緒に遊んでくれる？=You'll play with me again,nright Onīsan?
+あはっ♪nよわよわおちんちんnもう、限界かな～？=Ahaha♪nIs this your limit, Onīsan?
+よわよわおちんちんn私のお尻で扱かれてnちょっとは鍛えられたかな～？=Onīsan, I'll help you train withnmy ass! Aren't you grateful?
+……ありゃりゃ、ダメダメっぽいね♪n情けないおちんちんさんだね～=...It looks like your dick has gone flat♪nYou're so pitiful, Onīsan~
+お兄さんの精液n薄くてガッカリだよ……n何の取り柄もないんだね？nこのヘンタイよわよわおちんちん=My onīsan's semen is getting a little thin...nI thought you'd last longer.nI guess it's not our fault, yeah?nCan't expect a perv to go the distance.
+ねぇ、お兄さん！だらけてないでnタマタマの中のおちんちんミルクn全部ぴゅっぴゅしてよ！=Hey onīsan! Don't hold out on me,ncum every last drop in your balls!
+これ、どうするの？お兄さん？nうちの先生、すっごく怖いんだよ～？=Are you all right, onīsan? Onīsan?nTeacher's getting really scared~
+//Ability2
+ほら見て、nお兄さんのヘンタイおちんちんnがっつり咥えこまれちゃってるよ？=Onīsan's perverted dick got caughtnin his little sister's drooling mouth...nMy lower one, yeah?
+お兄さんのことはどーでもいいからnヘンタイ精液n早く私に注ぎ込んでね♪=I don't care if it's my onīsan, pournyour perverted cum into me as soon as possible♪
+ねえ、こんな女の子にnずっこんずっこんやられちゃっててn情けなくないの～？=Hey, isn't it kind of pathetic to messnaround with your little sister~?
+ほらほら～♪nこのまま続けたらお兄さん、負けちゃうよ～？n頑張って耐えようね♪=Heheh~♪nOnīsan, if you keep playing like this,nyou're going to lose, yeah~?nDo your best to endure for me♪
+お兄さんの敗北おちんちんnこうやってしごいてあげてるんだからn中の精液、ぜんぶ吐き出してよね！=Onīsan can't stop himself from cumming!nI'm doing my best to fuck you, sonthank me by pouring all your cum inside!
+お兄さんの濃い精液、n溢れ出ちゃってるの見える？=Can you see your thick cum leakingnout of your sister's pussy?
+私みたいな女の子にn精力搾り取られる気分ってどんな感じ？nヘンタイお兄さん♪=How does it feel to be fucked by your little sister?nI bet it's pretty good for you, perv♪
+お兄さんのヘンタイおちんちんnもう、私を妊娠させることしかn考えられないんじゃない？=My perverted onīsan can't thinknof anything but getting me pregnant, yeah?
+お兄さん、すっかり惚けちゃってる♪nその調子でゲーム続けられるの？=I love you so much, Onīsan♪nCan you keep playing the game like this?
+ほら！びゅびゅーってnヘンタイ精液射精してよ！=Hah! Cum in your sister, pervert!
+ねぇねぇ、お兄さん？nゲームは関係なしで、もう一回n私とエッチしない？=Hey, Onīsan?nLet's forget the game,ncan we fuck each other again?
+あはっ♪nお兄さん、ダウン寸前だね？=Ahaha♪ You're on thenverge of fainting, right onīsan?
+この調子なら、お兄さんのタマタマもnあっという間にすっからかんだね！=If this keeps going, Onīsan'snballs will be empty in no time!
+//Defeated
+もう、おわり？やったぁ！nとどめさしたごほうびにnお兄さんのおちんちんミルクnぜ～んぶいただいちゃお♪=Already out of it? I did it!nFor my reward, I'll have my onīsan'sndick pump my womb full of cum♪
+このままじゃ、お兄さんn自分のカード達に幻滅されちゃうかもよ？nいいのかなぁ～？=At this rate, Onīsan mightnforget all about his own girls.nWould that be all right with you?
+こ～んな年下の女の子にnみんなの前で犯されちゃってるのに……nお兄さんって、仲間への体裁よりn生ハメせっくすを優先しちゃうんだ～=You're fucking your little sister in front of so many people...nYou care more about having sex than whatnyour girls think of you~
+そんな、どうしようもないヘンタイお兄さんnみんなに見捨てられてもn私がずっとかわいがってあげるね♪nお兄さんじゃなくて、おちんちんの方だけど=Onīsan is such a helpless pervert♪nDon't worry, even if all your girlsnabandon you after this, I'll always love you♪nMy Onīsan can always serve me with his dick instead~
+タマタマにおちんちんミルクnまだたっぷり詰まってるんでしょ？nぜんぶ膣内射精するまでnおちんちん離さないからね！=Onīsan's balls are still full of cum, yeah?nUntil you give me every last drop,nI'm not letting go of your dick!
+あんっ♡nお兄さんのヘンタイおちんちん♪nせめて最後に私を孕ませようってnとっても必死だよぉ♡=Ahh♡ My perverted onīsan's dick won't stop cumming♪nHe's so desperate to impregnate me, even like this♡
+//Ability3
+ねぇ、お兄さんn私のパイズリ練習台になってくれない？=Hey onīsan, mind being my practicendummy for titfucking?
+お兄さん、必死で深呼吸してる♪n私のパイズリ、そんなに興奮するの？=Onīsan is breathing so heavily♪nYou're really enjoying my titfucking, yeah?
+お兄さん、どうやってnこの状況を乗り越えるのかな～♪nパイズリ、嫌なら逃げてもいいんだよ？=How did you get into this situation, onīsan~?nIf you don't like it, just pull your dick out, yeah~?
+ねぇ、お兄さん？n必死で我慢しても意味ないからn早くおちんちんミルク、まき散らして？=Onīsan? I'm allowed to go as long as I need to,nso it doesn't make sense to hold back, yeah?
+あはっ♪出た出たっ♪nとくの～おちんちんミルクのnパイズリ搾り♡=Aha♪ You came again♪ Onīsan isnhaving all his cum squeezed out by my titfuck♡
+おっぱいにKOされちゃったnヘンタイおちんちんさん♪n今の気持ち、どうかな～♪=How are you feeling now?nMy Onīsan has cum between his little sister's boobs♪
+ヘンタイおちんちんさんはヘンタイらしくn最後までおちんちんミルクnぴゅっぴゅしきってね～♪=My Onīsan is a massive pervert, and won'tnstop cumming for his little sister no matter what~♪
+//Hypno
+ねぇ、お兄さんと会うのnはじめてだよね？=Hey onīsan, this is our first timenseeing each other, yeah?
+……もしかして、図星なの？nどうしようもないね、nこのヘンタイおちんちん=...Maybe I'm too good at this?nI can't help it, my onīsan's too perverted.
+お兄さんになら、もう一回nパイズリしてあげてもいいよ？=Hey, if you're my bignonīsan, can I fuck you again?
+//Low Health
+よわよわおちんちんn捕まえちゃった♪=I caught my onīsan'sndick in my tits♪
+お兄さんの精力、あとちょっとだねn私のおっぱいで搾り取ってあげる！=Onīsan only has a little more energy,nso I'll squeeze it out with my boobs!
+//Defeated
+たっぱん、たっぱんnずりずりずりずり～♪=Finally, my Onīsan'sndick is all mine~♪
+//Mid-battle quotes
+お兄さんなんてn私のお尻でいちころだよっ♪=My onīsan is the bestnat playing with my ass♪
+お尻ふりふり～♪n一緒に遊ぼうよ～♡=Come on, Onīsan~♪nLet's play together~♡
+ブルマーの食・い・込・み♪n直してほしいな～♡=My shorts are really riding up my ass♪nCome on, be a good onīsan and help me～♡
+お兄さんの鼻息、nお尻にあたってるよ♪=My onīsan's nose is anperfect fit in my ass♪
+お兄さんたら、お尻に目がないんだからnほんと、チョロいね～♪=If my Onīsan is really this obsessednwith his little sister's ass,nthere's no doubt he's a pervert~♪
+//Temptation Ass-sitting
+あははっ♪ヘンタイさんはnゲームよりお尻のが大事なんだね♪=Ahaha♪ My Onīsan caresnmore about my ass than the game♪
+//SoPS Section. Well, that was gei. Let's just wash that taste out of my mouth real quick, as I localized the many, MANY ara-aras of SoPS as 'Oh my' which is the correct English equivalent.
