@@ -1,34 +1,3 @@
-\\Main Menu
-削除=Delete
-初期デッキ(乳)=Initial deck (milk)
-使用中=In use
-サーバから\nランダム取得=Import a random color set from the server
-サーバに\n色設定を登録=Register this color set to the server
-初期デッキ=Early deck
-デッキを選んでください=Please select a deck
-並び替え=sort
-デッキコードコピー\n（クリップボード）=Deck code copy\n(Clipboard)
-サーバ登録デッキと\nランダムバトル=Battle a random deck from the server
-使用デッキを\nサーバへ登録=Send the active deck to the server
-デッキコード\nから新規作成\n（クリップボード）=Create new from deck code (clipboard)
-コードからのデッキ生成に失敗しました。\n正しいデッキコードがコピーされているか、またはゲームが最新バージョンかどうかご確認願います。\n=Failed to generate a deck from code. It could be from an incompatible build, or maybe you CTRL+C'd something else after copying.\n
-コードからのデッキ生成に失敗しました。\n正しいデッキコードがコピーされているか、またはゲームが最新バージョンかどうかご確認願います。\nサーバからデッキデータを取得できませんでした。\n=Stop spamming, it isn't going to work.
-使用デッキ選択=Active Deck Selection
-パートナー=Partner
-<color%3D#ff9e00>「パートナー」</color>\nこの搾精者はあなたのパートナーだ。=<color%3D#ff9e00>"Partner"</color>\nThis Squeezer is your Partner.
-作成時刻=Creation Time
-搾精者編集=Squeezer Edit
-フリーバトル=Free battle
-マップ移動=World Map
-ランダム\n\n選択\n=random\n\nChoice\n
-全ての守護者を捨札に送る\n\n\n\naaa=Send all the Minions to the graveyard\n\n\n\naaa
-デッキ名=Name
-デッキ編集=Edit deck
-コードからのデッキ生成に失敗しました。\n=Failed to generate a deck from code.\n
-オンライン機能を有効にします。\n=Enabling the online function.
-オンライン機能を有効にします。\n認証に成功しました。\n=Enabling the online function.\nOnline successfully enabled.
-デッキをサーバに登録しました。\n=The active deck has been registered to the online server.\n
-\\Hints
 メニュー画面に表示されるデッキの画像を中央にスクロールすることで、バトルで使用するデッキを選択することができる。\r\n選択したデッキ画像をクリックすると、デッキ画像を巨乳化することができる。=Select a deck to battle with by scrolling through this menu.\nYou can also click on the active deck to apply 'Big Breasts' to it.
 勝負に勝とうと負けようと、あなたを待つのは搾精のみ。安心して搾られよう。=You'll have plenty of sex when you're winning, and even more if you're losing, so don't worry about needing to win.
 「巨乳化」させることで、搾精者の秘めたる能力を使用できることがある。=The 'Big Breasts' card adds a new ability to squeezers it is cast on.\nKeep in mind these abilities don't count for the 'Milk Ticket' card.

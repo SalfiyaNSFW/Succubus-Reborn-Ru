@@ -222,11 +222,6 @@ E 巨乳化限定 乳属性\n搾精(1)\n搾精対象の山札の一番上から3
 E 吸精 ♀属性\n搾精(1)\n敵陣の1コスト以下の守護者1体を行動可能にして、ターン終了時までそのコントロールを得る。\n対戦相手を搾精した場合、代わりに対戦相手の手札を全て公開する。=Vaginal Attribute: Squeeze <color%3D#00ff00>(-1)</color>. If this ability is used on you, you may target a minion controlled by your opponent that costs <color%3D#009eff>(1)</color> mana or less, refresh its actions and take control of it until the end of this turn.\nIf this ability is used on your opponent, reveal your opponent's hand instead.
 E 脚属性\n搾精(1)想力生成(1)=Leg Attribute: Squeeze <color%3D#00ff00>(-1)</color> Generate <color%3D#009eff>(+1)</color>
 //Squeezer: Gentle Sorceress
-穏やかな占術師=Gentle Sorceress
-繁華街の路地裏でひっそりと占いを営む女性。全てを見通しているかのような彼女の助言は、多くの悩める人を前向きにする。男性限定の特別な占いを受けた者は機運を大きく転換するが、憑りつかれたかのように彼女のもとへ足蹴く通うことになる。=A woman who runs a quiet fortune-telling shop in a back alley. Her advice is suprisingly perceptive, and brings hope to those down on their luck. She has a special rate for men, making them significantly happier, but causing them to return frequently as if possessed.
-E 吸精 ♀手属性\n搾精(1)\n搾精対象の山札の上から3枚見て、好きな順番に並び替えて戻す。=Hand/Vaginal Attribute: Squeeze <color%3D#00ff00>(-1)</color>. Look at the top three cards of the target's deck, then put them back in any order.
-E 手属性\n搾精(1)想力生成(1)\nオナホ装備時、この能力の追撃+1=Hand Attribute: Squeeze <color%3D#00ff00>(-1)</color>, Generate <color%3D#009eff>(+1)</color>. If equipped with 'Luxury Fleshlight', this ability has 'Pursuit 1'.
-E 巨乳化限定 乳属性\n搾精(1)\n搾精対象の山札の上から3枚見る。あなたはその中から「奇蹟」のカードを1枚手札に加えても良い。その後山札をシャッフルする。=Big Breasts Attribute: Squeeze <color%3D#00ff00>(-1)</color>. Look at the top three cards of the target's deck, add 1 'Miracle' card from them to your hand, then shuffle the target's deck.
 //Squeezer: Bouncy Succubus
 跳ね回る淫魔=Bouncy Succubus
 人気のない夜の通りで気ままに踊る不思議な淫魔。捉えどころのない性格で積極的に精を狙う気配はない。しかし彼女が無意識に振るお尻を眺める者はことごとく吸い寄せられ、精が尽きるまでお尻を白く染め上げることとなる=A mysterious Succubus who dances on deserted streets at night. She is surprisingly reclusive, and there is no sign of her actively trying to seduce anyone. However, any men who see her dancing are subconsciously drawn to her, and end up dyeing her ass white.
@@ -743,6 +738,11 @@ E \n想力生成(X)\nXは自陣の全てのカードの信仰値の合計に等�
 人類の叡智の結晶がここに……！\n※クーリング・オフ対象外=The power of the Succubus... Harnessed and controlled by the limitless ingenuity of Humanity.
 場の創造物以外の搾精者1体を催眠状態にし、コントロールを得て未行動にする。\nこのカードが場を離れた時、その搾精者の持ち主がコントロールを得る。=Equip this card to a non-creation squeezer on your opponent's field, take control of it.\nWhen this card leaves the field, the equipped squeezer returns to its original owners control.
 催眠Phone=Hypnosis Phone
+穏やかな占術師=Нежная Предсказательница
+繁華街の路地裏でひっそりと占いを営む女性。全てを見通しているかのような彼女の助言は、多くの悩める人を前向きにする。男性限定の特別な占いを受けた者は機運を大きく転換するが、憑りつかれたかのように彼女のもとへ足蹴く通うことになる。=Женщина, которая имеет тихий магазин предсказаний в глухом переулке. Её советы на удивление проницательны и приносят надежду тем, кому не повезло. У неё есть особые услуги для мужчин, который делает их счастливее, но заставляет их часто возвращаться, как одержимых.
+E 吸精 ♀手属性\n搾精(1)\n搾精対象の山札の上から3枚見て、好きな順番に並び替えて戻す。=Руки / Вагина: Сжатие <color%3D#00ff00>(-1)</color>. Взгляните на верхние карты врага, а после положите их в обратном порядке.
+E 手属性\n搾精(1)想力生成(1)\nオナホ装備時、この能力の追撃+1=Руки: Сжатие <color%3D#00ff00>(-1)</color>, Создаёт <color%3D#009eff>(+1)</color>. Если используется 'Мастурбатор', Эта способность имеет 'Цель 1'.
+E 巨乳化限定 乳属性\n搾精(1)\n搾精対象の山札の上から3枚見る。あなたはその中から「奇蹟」のカードを1枚手札に加えても良い。その後山札をシャッフルする。=Большая грудь: Сжатие <color%3D#00ff00>(-1)</color>. Взгляните на верхние карты врага и замените одну из них на карту 'Чудо', затем перетасуйте колоду врага.
 催眠=Hypnosis
 魅了の指輪=Hypnotising Ring
 場に出た時、誘惑能力を持つ搾精者1体を対象として魅了を付与する。\nこのカードが場を離れた時、その搾精者の魅了を解除する。\n想力(2)\n魅了付与効果の対象を誘惑能力を持つ搾精者1体に変更する。=When summoned, equip to a Squeezer with a 'Temptation' ability. Grant that squeezer 'Charm' as long as this card is equipped.\nCost <color%3D#009eff>(2)</color>: Equip this card to another valid target.
