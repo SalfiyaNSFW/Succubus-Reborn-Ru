@@ -1,0 +1,16 @@
+青字クリックでブラウザを開きます。=*Нажатие на синий текст открывает браузер.
+
+KNT graphics／矢神ニーソ=Графика / Yagami Niso
+タイガーリリー=Tiger Lily
+フリーBGM・音楽素材MusMus=Музыка MUSMUS
+西田光（勝気な精霊使い）=Nishida Hikari (Repressed Dryad)
+とある教会裏のさとうきび畑／サッカルム=Top of the Church Background / Sakkalm
+
+超次元覚醒研究所=Исследовательский институт сверх пространственного пробуждения
+制作=Производитель
+画像素材=Ассеты
+コラボサークル様=Collaboration circle
+スウィートラズベリー／あずきあらい=Sweet lasbury / Azuki
+
+BGM、効果音=Звуковые эффекты
+このゲームは"カードバトル"と"搾精"をテーマにした一人用のゲームです。\n現在開発中のため、随時アップデートする予定です。\n現時点でできることは主に以下の通りです。\n\n・デッキの作成\n・デッキ別のキャラクター色変更\n・作成したデッキを使用してのCPとのバトル\n・Hアニメーションのリプレイ（搾精者編集にて）\n\nこれまでの開発状況など、詳細は支援サイトの過去記事をご参照願います。=This is a single-player card game with the theme of "squeezing".\n*Translator's Note: Don't panic, by 'Squeezing' they mean with mouths and vaginas, no Guro here.\nIt is currently under development and will be updated from time to time.\nThe main features thus far are as follows;\n-Create decks\n-Change character colors in decks\n-Battle with AI using your decks\n-Gallery Mode (In the 'Edit Squeezers' menu)\nPlease refer to the past articles on the support site for details such as the development status so far.

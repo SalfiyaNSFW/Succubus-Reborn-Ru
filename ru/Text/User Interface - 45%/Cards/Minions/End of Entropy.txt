@@ -1,0 +1,2 @@
+逢魔時=Конец энтропии
+このカードが場に出た時、ターン終了時まで場の創造物以外の全ての搾精者を催眠状態にし、コントロールを得て行動可能にする。\nこのカードが場を離れた時、その搾精者の持ち主がコントロールを得る。=When summoned, take control of all non-creation squeezers on both sides of the field and refresh their actions.\nWhen this card leaves the field, all controlled squeezers are returned to their original owner's side of the field.

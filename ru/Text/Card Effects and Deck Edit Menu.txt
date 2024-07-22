@@ -1,41 +1,8 @@
-//Deck Editing Menu
-初期デッキ(尻)=Initial deck (butt)
-タイプ=Фильтр
-キャンセル=Отмена
-決定=Подтвердить
-フィルタ解除=Сброс фильтра
-属性=Тип
-反応型=Реакции
-計略=Стратегия
-呪詛=Проклятья
-守護者=Миньоны
-揮発型=Летучие
-設置型=Стационарные
-創造物=Создание
-搾精者=Выжиматели
-淫魔術=Магия секса
-検索文字を入力=(Только японский)
-検索=Поиск
 パートナーをバトル開始時から巨乳化=Give your partner Big Breasts when summoned, but she cannot act her first turn.
 カード枚数が不足しているため、このデッキではオンライン機能を利用できません。このまま保存しますか？=This deck is under 40 cards, and cannot be used Online. Save anyway?
 このデッキを使用しますか？=Set this as your active deck?
-//Squeezers:BunnyGirl
-誘惑 乳属性\nこの搾精者のコントローラーはこっそり設置型カードを配置するかもしれない。=Temptation Breast Attribute: Summon 'Honey Trap' to this card's side of the field face-up from outside your deck (Max 3).\nPursuit does not affect this ability.
-E 吸精 ♀属性\n搾精(1)場の守護者1体を対象とする。そのATKをターン終了時まで+2する=Vaginal Attribute: Target a Minion on the field, Squeeze <color%3D#00ff00>(-1)</color> and add <color%3D#ff0000>(+2) ATK</color> to that Minion until the end of this turn.
-E 吸精 ♀属性\n搾精(1)\n場の守護者1体を対象とする。\n搾精対象が自分の場合、そのATKをターン終了時まで+2する\n搾精対象が相手の場合、そのATKを+1する。=Target a minion on the field,\nSqueeze <color%3D#00ff00>(-1)</color>.\nIf you target yourself, add <color%3D#ff0000>(+2) ATK</color> to that Minion until the end of this turn.\nIf you target your opponent, add <color%3D#ff0000>(+1) ATK</color> to that Minion permanently.
-E 乳属性\n搾精(1)想力生成(1)\n巨乳化状態の時、代わりに搾精(2)する。想力生成(2)\n自陣に快活なブルマー娘がいる場合、あなたが次に場に出した守護者1体のATKを+1する。この効果は重複しない。=Breast Attribute: Squeeze <color%3D#00ff00>(-1)</color> Generate <color%3D#009eff>(+1)</color>\nIf this card has 'Big Breasts', then Squeeze <color%3D#00ff00>(-2)</color> Generate <color%3D#009eff>(+2)</color> instead.\nIf 'Cheerful Schoolgirl' is on your side of the field, then add <color%3D#ff0000>(+1) ATK</color> to the next Minion you summon, permanently.\nThis effect does not stack.
-搾精者 人間=Human Squeezer
-情熱のバニーガール=Passionate Bunnygirl 
-奇蹟=Miracle
-巨乳化限定=Big Breasts limited
-情熱のバニーガールああああ=Passionate Bunnygirl
-カジノで人気のお姉さん。大きい胸に若干のコンプレックスがあるものの、顧客がチップを弾んでくれるので前向きに考えている。=A popular employee of the local Casino. She isn't comfortable with her breast size, feeling they are too large, but puts up with it for the sake of her customers.
-//Squeezers:Schoolgirl
-ブルマーを愛する運動部系の娘。比較的大きめなお尻が選手としては悩みの種だったが、男子へのお願いに使えることがわかってからは積極的に活用している。=The daughter of the owner of a local gym, her relatively large ass makes playing sports difficult for her, but she likes to use it to seduce the other players instead.
-誘惑 尻属性\nこの搾精者のコントローラーはこっそりカードを1枚引くかもしれない。=Temptation Ass Attribute: This card's current owner draws a card (Max 7).\nPursuit does not affect this ability.
-E 巨乳化限定 乳属性\n搾精(1)想力生成(1)\n場の守護者1体を対象とする。その守護者に再攻撃1を付与する。=Big Breasts Attribute: Squeeze <color%3D#00ff00>(-1)</color>, Generate <color%3D#009eff>(+1)</color>. You may target a Minion on the field, grant them +1 'Multi Attack' permanently.
-E 吸精 ♀属性\n搾精(1)このターンの間、あなたが場に出した守護者は迅速を持つ。既に迅速を持っている場合、ATKとLIFEを+1する。この効果は重複しない。=Vaginal Attribute: Squeeze <color%3D#00ff00>(-1)</color>. For the rest of this turn, Minions you play have 'Haste'. If they already have 'Haste', grant them <color%3D#ff0000>(+1) ATK</color> and <color%3D#00ff00>(+1) LIFE</color> instead.\nThis effect does not stack.
-E 尻属性\n搾精(1)想力生成(1)=Ass Attribute: Squeeze <color%3D#00ff00>(-1)</color> Generate <color%3D#009eff>(+1)</color>
+
+
 //Squeezers:SoWaD
 知恵と失望の淫魔=Succubus of Wisdom and Disappointment 
 彼女は人に文字を与えたが、彼らは記録性ばかり着目して文字に想いを込めなくなった。腐った文字が産みだす不和の連鎖を見て、彼女は自身の宿命を知った。=She sent letters of invitation to many powerful men, but they didn't entrust her, attempting to find out who else had been sent letters in order to blackmail them. Witnessing the fallout of her entreaties, She fell into despair...
@@ -54,41 +21,15 @@ sr:"封印(\d+)"="Seal\n$1"
 <color%3D#ff9e00>「母乳体質」</color>\n自ターンの終了時、母乳値を1増加する。巨乳化状態の場合、代わりに2増加する。=<color%3D#ff9e00>"Lactation"</color>\nIncrease this card's Breast Milk Level by 1 at the end if your turn. If this squeezer has 'Big Breasts', increase by 2 instead.
 母乳体質=Lactation
 搾精者 淫魔=Demonic Squeezer
-//Squeezers:Hungry Succubus
-はらぺこ淫魔=Hungry Succubus
-いつもお腹を空かせている淫魔。人間社会に溶け込んでいるものの気が緩むと本来の姿を現す。食欲を抑えきれず精力を根こそぎ吸い取る以外、特に害はない。=A Lesser Succubus with an insatiable appetite. She blends into human society, but when she feels relaxed, she reveals her true form. She isn't particularly dangerous, but has trouble controlling her urges.
-E 巨乳化限定 乳口属性\n搾精(2)\n『竜玉』か『想力結晶』のいずれかを選び、それを自陣に1個生成する。=Big Breasts, Mouth Attribute: Squeeze <color%3D#00ff00>(-2)</color>, summon 'Dragon Ball' or 'Energy Crystal' to your side of the field.\nNote: In the event of pursuit, you cannot currently mix-and-match.
-E 吸精 口属性\n搾精(2)　封印を2減少する。\n封印解除時、代わりに搾精(5)して以下の効果を発動する。\n搾精したプレイヤーの山札の先頭のカードのコストを0にして手札に加える。=Mouth Attribute: Squeeze <color%3D#00ff00>(-2)</color>,\nUnseal <color%3D#ff00de>(-2)</color>\nIf <color%3D#ff00de>Unsealed</color>, Squeeze <color%3D#00ff00>(-5)</color> instead, and draw the top card of the target player's deck, add it to your hand and set its mana cost to <color%3D#009eff>(0)</color>.
-E 口属性\nこの能力はあなたに対してのみ使用できる。\n搾精(4)想力生成(2)\n封印を1減少する。=Mouth Attribute: Squeeze <color%3D#00ff00>(-4)</color> Generate <color%3D#009eff>(2)</color> Unseal <color%3D#ff00de>(-1)</color>\nThis ability may not be used against your opponent.
-このカードを抹消する。想力生成1=Banish this card, Generate <color%3D#009eff>(+1)</color>
-<color%3D#ff9e00>「陽炎」</color>\nこのカードが捨札や手札に送られるとき、代わりに抹消する。=<color%3D#ff9e00>"Mirage"</color>\nWhen this card would leave your hand or the field by any means, banish it instead.
-陽炎=Mirage
-設置型 災厄、呪詛=Creation Disaster, Curse
-想力結晶=Energy Crystal
-自分の山札から竜の守護者カードを1枚選び、そのカードのコスト2毎に自陣の『竜玉』を1つ抹消する。そうしたならば選んだカードのコストを0にして、手札に加える。その後山札をシャッフルする。=Banish 'Dragon Balls' from your side of the field equal to half the cost of a 'Dragon' Minion in your deck, add that card to your hand and make its cost 0.
-常在能力 \n『竜玉』の数だけ、あなたの手札の竜の守護者カードのコストは1下がる。=Each 'Dragon Ball' on your field reduces the cost of all 'Dragon' Minions in your hand by 1.\nThis effect is 'Intrinsic' and cannot be negated.
-設置型 自然=Natural Stationary
-竜玉=Dragon ball
-『竜玉』を1個自陣に生成する。=Summon 'Dragon Ball'
-『想力結晶』を1個自陣に生成する。=Summon 'Energy Crystal'
-E 口属性\n連携(自陣の『信用と狂騒の淫魔』を行動済にする） 搾精（4）\n全ての連携カードの封印減少(2)\n封印解除状態の搾精者1体につき、『札束』を1つ生成する。\nあなたは搾精対象の山札からカードを1枚選び、手札に加えてもよい。選んだカードが「指輪」の場合、そのコストの数だけ自陣に『負債』を生成し、そのカードのコストを0にする。そうでない場合、自陣に『負債』を3個生成する。=Mouth Attribute: This ability can only be used when there is a 'Faithless Succubus of Greed' that can act on your side of the field, this ability consumes her action as well.\nSqueeze <color%3D#00ff00>(-4)</color>, Unseal <color%3D#ff00de>(-2)</color>. You may choose a card from the target's deck, add it to your hand, but do not shuffle their deck.\nIf the card was a 'Ring' equip, generate 'Debt' on your side of the field equal to its cost and make its cost <color%3D#009eff>(0)</color>. Otherwise, generate 3 'Debt' on your side of the field.\nWhen <color%3D#ff00de>Unsealed</color>, generate 1 'Donation' on your side of the field.
-//Squeezers:Dryad
-勝気な精霊使い=Determined Dryad
-精霊使いとしては半人前の娘。既に存在する精霊に懐かれてはいるものの、自力で具現化させるにはいろいろと足りていないようだ。=A half-blood daughter of a Forest Elemental, she serves as a messenger for the spirits of her forest. Although she does share a deep bond with these spirits, she cannot summon them herself, a fact she hates to admit.
-E 巨乳化限定 乳属性\n搾精(1) このカードに発情を付与する。\n『光の精霊』を2体自陣に生成する。=Big Breasts Attribute: Squeeze <color%3D#00ff00>(-1)</color>, Summon 2 'Forest Spirit' to your field, and apply 'Estrus' to this card.\n
-E 吸精 発情限定 ♀属性\nこの能力はあなたに対してのみ使用できる。\n搾精(1) 強制搾精でない場合、『木の精霊』を1体自陣に生成する。=Vaginal Attribute: This ability may only be used against you, and only while this card has 'Estrus'. Squeeze <color%3D#00ff00>(-1)</color>, and remove 'Estrus' from this card.\nAdditionally, if you manually activate this ability, summon 'Tree Spirit' to your side of the field.
-E 吸精 脚属性\n搾精(1)想力生成(2)\nこのカードに発情を付与する。=Leg Attribute: Squeeze <color%3D#00ff00>(-1)</color>, Generate <color%3D#009eff>(2)</color>, and apply 'Estrus' to this card.
-<color%3D#ff9e00>「羞恥」</color>\nこの搾精者は強制搾精を行わない。「発情」を付与された場合、この能力を削除する。=<color%3D#ff9e00>"Shame"</color>\nThis Squeezer does not forcibly squeeze if left idle. If 'Estrus' is applied to this card, remove this ability.
-羞恥=Shame
-搾精者 先史人=Half-Blood Squeezer
-<color%3D#ff9e00>「護衛」</color>\n相手の守護者は、この能力を持つ守護者以外を攻撃することができない。=<color%3D#ff9e00>"Protector"</color>\nThe opponent must target a card with this ability when attacking.
 護衛=Protector
+場に出たとき、場の全ての設置型カードを捨札に送る。=При использовании отправляет все «Неподвижные» карты с поля на кладбище.
 守護者 自然、精霊=Natural Elemental Minion
 木の精霊=Tree spirit
 あなたのターン開始時、この守護者を抹消する。=At the start of your turn, banish this Minion from the game.
 <color%3D#ff9e00>「迅速」</color>\n場に出る際、未行動状態となる。=<color%3D#ff9e00>"Haste"</color>\nThis minion may act the turn it is summoned.
 迅速=Haste
 光の精霊=Forest Spirit
+<color%3D#ff9e00>「護衛」</color>\n相手の守護者は、この能力を持つ守護者以外を攻撃することができない。=<color%3D#ff9e00>"Protector"</color>\nThe opponent must target a card with this ability when attacking.
 //Squeezer:Nun
 背徳のシスター=Unholy Nun
 純潔を守る敬虔なシスター。安産型のお尻が男を惑わす。尻で精を枯らせば姦通を防げると考え、自らの使命としながらも搾精行為に悦びを覚えつつある。=A seemingly devout Sister of a rival church. She believes adultery is caused by husbands being unsatisfied with their wives, and seeks to prevent this by making them cum with her ass. It is doubtful their wives appreciate such efforts.
@@ -98,13 +39,7 @@ E 吸精 ＊属性\n搾精(1) 信仰値+1\n搾精対象の捨札から災厄の�
 <color%3D#ff9e00>「信仰」</color>\n=<color%3D#ff9e00>"Faith"</color>\nA special resource gained from certain abilities. Some abilities gain effects depending on the amount of this resource.
 sr:"信仰(\d+)"="Faith\n$1"
 sr:"<color%3D#ff9e00>「信仰」</color>\nこのカードのコントローラーの合計信仰値は(\d+)です。"="<color%3D#ff9e00>"Faith"</color>\nThe total amount of <color%3D#ffff00>Faith</color> this card's owner possesses is <color%3D#ffff00>$1</color>."
-//Squeezer:Cheerleader
-きらめくチアリーダー=Energetic Cheerleader 
-みんなを元気いっぱいにするのが大好きなボクっ子チアリーダーお姉さん。急成長したおっぱいでチアウェアがぱつんぱつんだが、その方が喜ばれるので変えるつもりはないようだ。=A popular school Cheerleader who loves to cheer people on. Her shirt is a size too small, but she refuses to change it, as the crowds prefer her current attire.
-E パートナー限定 \nデッキ画像を巨乳化していた場合、巨乳化状態、行動済でゲームを開始する。=Partner Only: If this card was equipped with 'Big Breasts' in the main menu, she will be summoned with them, but be unable to act her first turn.
-E 吸精 ♀属性\n搾精(1)自陣の全ての守護者を次ターン終了時までATK+1,LIFE+1する。=Vaginal Attribute: Squeeze <color%3D#00ff00>(-1)</color>, add <color%3D#ff0000>(+1) ATK</color> and <color%3D#00ff00>(+1) LIFE</color> to all minions on your side of the field until the beginning of your next turn.
-E 乳属性\n搾精(1)想力生成(1)\n巨乳化状態の時、代わりに搾精(2)する。想力生成(2)=Breast Attribute: Squeeze <color%3D#00ff00>(-1)</color>, Generate <color%3D#009eff>(+1)</color>.\nWhen 'Big Breasts' is applied, Squeeze\n<color%3D#00ff00>(-2)</color>, Generate <color%3D#009eff>(+2)</color> instead.
-誘惑 乳属性\n次のあなたのターン開始時まで、あなたは乳属性の搾精攻撃を守護者で防ぐことができない。=Temptation Breast Attribute: The activating player can be targeted by Breast and Big Breast-attribute abilities directly on their opponent's next turn.\nPursuit does not affect this ability.
+
 //Squeezer:Idol
 みんなのアイドル淫魔=Succubus Siren
 割と何でも卒なくこなせる器用な淫魔で、斜陽な業界でソコソコ売れてるアイドル。聴衆を骨抜きにする甘々ボイスが売り。"演出"で誤魔化せるので、本性を隠す必要がない今の環境が気に入っている。=A rising Idol who is secretly a Lesser Succubus. She bewitches her audience with her voice, and then they line up to offer themselves to her. She likes working here, as she doesn't have to worry about showing her true self on our stage.
@@ -132,31 +67,10 @@ E 吸精 脚属性\n搾精(2)\n使用済みコンドームを1個自陣に生成
 常在能力 \nあなたは脚属性の搾精攻撃を守護者で防ぐことができない。=Your opponent can attack you directly with leg-attribute abilities.\nThis effect is 'Intrinsic' and cannot be negated.
 常在能力 \nあなたが脚属性で搾精される場合、失う精力は2倍になる。=If you are squeezed with a Leg Attribute ability, double the <color%3D#00ff00>health</color> lost.\nThis effect is 'Intrinsic' and cannot be negated.
 脚奴隷の紋章=Leg Slave Crest
-守護者 人間、平民=Human Commoner Minion
+
 親衛隊=Devoted Fan
-//Squeezer: Faithless
-信用と狂騒の淫魔=Faithless Succubus of Greed
-人々は同胞に分け与えることすら躊躇うようになっていた。彼女の発案で再び人は収穫を分かち合い、社会は繁栄の道を歩み始めた。それはただの道具に過ぎなかったが、多くの人がそれに生涯を狂わされていった。無数の破滅をよそに発展し続ける世界を、彼女は大いに愉しんだ。=Once upon a time, humans were hesitant to share food even with their own brothers. She set in motion the creation of massive trade networks that built great societies... while crushing those who fell behind.
-E 吸精 ♀口属性\n搾精(3) 封印減少(3)\n封印解除時、搾精対象の陣に『口奴隷の紋章』を生成する。=Vaginal Mouth Attribute: Squeeze Squeeze <color%3D#00ff00>(-3)</color> Unseal <color%3D#ff00de>(-3)</color>. When <color%3D#ff00de>Unsealed</color>, summon 1 'Mouth Slave Crest' to the target's side of the field.
-E 口属性\n搾精(2)、封印減少(1)\n搾精対象の陣に『負債』を1個生成する。\n搾精対象が自分の場合、カードを1枚引く。更に封印解除時、この搾精者を行動可能にする。=Mouth Attribute: Squeeze <color%3D#00ff00>(-2)</color> Unseal <color%3D#ff00de>(-1)</color>. Summon 1 'Debt' to the target's side of the field.\n If used on yourself, draw a card.\nWhen used on yourself while <color%3D#ff00de>Unsealed</color>, this ability does not cost an action.
-E 口属性\n搾精(2)、想力生成(1)、封印減少(1)\n封印解除時、追加で自陣に『札束』を1個生成する。=Mouth Attribute: Squeeze <color%3D#00ff00>(-2)</color> Generate <color%3D#009eff>(+1)</color> Unseal <color%3D#ff00de>(-1)</color>. When <color%3D#ff00de>Unsealed</color>, Summon 1 'Donation' to your side of the field.
-E 巨乳化限定 乳口属性\n搾精(3)\n搾精対象の陣に『負債』を2個生成し、自陣に『札束』を3個生成する。=Big Breast Mouth Attribute: Squeeze <color%3D#00ff00>(-3)</color>. Summon 2 'Debt' the the target's side of the field, and 3 'Donations' to yours.
-この効果は1ターンに1度しか発動しない。\nあなたのターン終了時、『負債』を1個自陣に生成する。その後自陣の『負債』の数が自陣の『札束』の数より13個以上多い場合、あなたはゲームに敗北する。=At the end of your turn, once per turn, generate 1 'Debt' token on your side of the field.\nIf you have 13 or more 'Debt' then you do 'Donations' in a single stack on your side of the field after this effect resolves, you lose the duel.
-このカードと自陣の『札束』を1個抹消する。=Banish a 'Donation' from your side of the field to banish this card.
-負債=Debt
-債務精奴隷END（シーン未実装）あなたの勝利です。=You've won.\nYour opponent is bankrupt (Scene not implimented).\n 
-債務精奴隷END（シーン未実装）あなたの敗北です。=\nYou can't afford to continue any further\n(Scene not implimented). You've lost.
-常在能力 \nあなたは口属性の搾精攻撃を守護者で防ぐことができない。=Your opponent can attack you directly with Mouth-attribute abilities.\nThis effect is 'Intrinsic' and cannot be negated.
-あなたが口属性で搾精された時、自陣に『負債』を1つ生成する。=When you are squeezed with a Mouth-Attribute ability, summon one 'Debt' to your side of the field.
-口奴隷の紋章=Mouth Slave Crest
-//Squeezer:Nurse
-献身的なナース=Dedicated Nurse
-病院に勤めるナースさん。優しい笑顔と甲斐甲斐しい看護で年頃の患者の心を掴む。身長は低めだがその分色々と体にギュっとつまっている。\n国家資格 高度舌技搾精士保持者。=A Nurse who works at local hospital. She earns her patient's trust with her gentle smile and doting care, eager to satisfy their every need. She is self-conscious about her height, but feels she makes up for it with her width.
-誘惑 口属性\n次のあなたのターン開始時まで、あなたは口属性の搾精攻撃を守護者で防ぐことができない。=Temptation Mouth Attribute: Your opponent can attack you directly with mouth-attribute abilities until the start of your next turn.
-E 巨乳化限定 乳口属性\n搾精(1)想力生成(1)\n対象の守護者がこのターン捨札に送られた場合、持ち主の手札に戻す。=Big Breasts, Mouth Attribute: Squeeze <color%3D#00ff00>(-1)</color>, Generate <color%3D#009eff>(+1)</color>. Target a minion on the field, the first time that card is sent to the graveyard this turn, it is returned to its original owner's hand.\nIf the target is in the graveyard at the end of this turn for any reason, return it to its original owner's hand.\nThis includes being discarded from the hand at the end of the turn if you have more than seven cards.
-この守護者が捨札に送られたとき、持ち主の手札に戻す。=The first time this Minion is sent to the graveyard this turn, it is returned to its original owner's hand.\nIf this card is in the graveyard at the end of this turn for any reason, return it to its original owner's hand.\nThis includes being discarded from the hand at the end of the turn if you have more than seven cards.
-E 吸精 口属性\n搾精(1)\n場の守護者1体のLIFEを+1して、ターン終了時まで「装甲1」を付与する。=Mouth Attribute: Squeeze <color%3D#00ff00>(-1)</color>, Target a Minion on the field, permanently add <color%3D#00ff00>(+1) LIFE</color>.\nAdditionally, add (+1) Armor until the end of this turn.\nThis effect stacks.
-E 口属性\n搾精(1)想力生成(1)=Mouth Attribute: Squeeze <color%3D#00ff00>(-1)</color>, Generate <color%3D#009eff>(+1)</color>.
+
+
 //Squeezer:Student Succubus
 気のない学生淫魔=Lazy Succubus Student
 学生に紛れて生活している淫魔。成績優秀だが友達付き合いはなく、スマホ弄りが専らの趣味。影で囁かれる噂によると、下心から彼女に近づいて性癖を歪められた男性の数は3桁に及ぶとか。=A Succubus living as a student attending a local college. Her grades are excellent, but she holds no interest in socializing, preferring to play with her phone. It is rumored that over a hundred men have confessed their love for her.
@@ -169,17 +83,7 @@ E 手属性\n搾精(2) 想力生成(1) 封印減少(1) \n搾精対象の山札�
 常在能力 \nあなたが手属性で搾精された時、山札のカードを3枚捨札へ送る。=When you are squeezed with a 'Hand' attribute ability, send three cards from the top of your deck to the discard pile.\nThis ability is 'Intrinsic' and cannot be negated.
 手奴隷の紋章=Handjob Slave Crest
 捨てるカードを1枚選択してください（キャンセル可）=Select a card to discard, or right-click to cancel.
-//Squeezer:Succubus of Peace
-安寧と盲従の淫魔=Succubus of Peaceful Submission
-E 乳属性\n搾精(2)想力生成(1)封印減少(1)\n巨乳化状態の時、追加で搾精(1)想力生成(1)\n封印解除時、追加で搾精(1)想力生成(1) 搾精対象の手札に『乳魔依存症』を1枚加える。=Breast Attribute: Squeeze <color%3D#00ff00>(-2)</color>, Generate <color%3D#009eff>(+1)</color>, Unseal <color%3D#ff00de>(-1)</color>.\nIf this card has 'Big Breasts', then additionally Squeeze <color%3D#00ff00>(-1)</color>, Generate <color%3D#009eff>(+1)</color>.\nIf this card is '<color%3D#ff00de>Unsealed</color>', then additionally Squeeze <color%3D#00ff00>(-1)</color>, Generate <color%3D#009eff>(+1)</color>, and add 1 'Breastmilk Addiction' to the target's hand.
-E 乳手属性\n搾精(3)封印減少(1)\nこの搾精者の母乳値をX減らす。Xはこの搾精者の母乳値に等しい。\nそうしたならば搾精対象の精力をXの2倍増加し、その手札に『乳魔依存症』を1枚加える。\nXの値3毎に、手札に加える『乳魔依存症』を1枚増やす。\n封印解除時、対戦相手はこの能力を守護者で防ぐことができない。=Breast/Hand Attribute: Squeeze <color%3D#00ff00>(-3)</color>, Unseal <color%3D#ff00de>(-1)</color>.\nRemove all Breast Milk Levels from this card, heal the target for twice the amount removed, and add 1 'Breastmilk Addiction' to the target's hand, plus 1 for every 3 milk levels removed.\nWhen <color%3D#ff00de>Unsealed</color>, this ability can target your opponent directly.\nThis ability cannot be used without at least one Breast Milk Level.
-E 吸精 ♀乳属性\n搾精(2)封印減少(2)\n敵陣の守護者1体に束縛1を付与してもよい。\nこの搾精者の母乳値を1減らす。そうしたならば搾精対象の手札に『乳魔依存症』を1枚加える。\n封印解除時、代わりに搾精(4)、この搾精者の母乳値をX減らす。Xはこの搾精者の母乳値に等しい。そうしたならば搾精対象の手札に『乳魔依存症』を1枚加える。\nXの値2毎に、手札に加える『乳魔依存症』を1枚増やす。=Breast/Vaginal attribute: Squeeze <color%3D#00ff00>(-2)</color>, Unseal <color%3D#ff00de>(-2)</color>. Remove one Breast Milk Level from this card, and if you do, add 1 'Breastmilk Addiction' to the target's hand.\nWhen <color%3D#ff00de>Unsealed</color>, Squeeze <color%3D#00ff00>(-4)</color>, remove all Breast Milk Levels from this card, and if you do, add 1 'Breastmilk Addiction' to the target's hand for every 2 Breast Milk Level removed +1 instead, rounding up.\nYou may target a minion on the opponent's side of the field, and if you do, inflict 'Bondage'.\nBondage can stack on a single target, and this ability may be used with zero milk levels, but does not add any 'Breastmilk Addiction' if used like this.
-常在能力 \n手札に『乳魔依存症』が10枚以上存在するとき、そのプレイヤーはゲームに敗北する。=When there are ten 'Breastmilk Addiction' cards in your hand, you lose the game.\nThis effect is 'Intrinsic' and cannot be negated.
-常在能力 \nこのカードは使用することも捨てることもできない。=This card can not be discarded by any means.\nThis effect is 'Intrinsic' and cannot be negated.
-状態異常 =Abnormality 
-乳魔依存症=Breastmilk Addiction
-彼女は気まぐれに種を捲き、育てる喜びに満たされた。それは自然の無償の恵みの前には児戯に等しかった。そこで彼女は物語を奏でた。「自然は気まぐれで、恵みもいつ尽きるかわからない」、と。不安に駆られた人々は土地に縛られ、生涯を耕すことで終えるようになった。=A Greater Succubus with a passion for farming. She eventually realized her efforts were a mere shadow of what Nature could provide. Thus, she changed her story, and began to cultivate and harvest the lives of anxious mortals.
-常在能力 パートナー限定 \nあなたが発動した能力によって『下級淫魔』が生成される場合、代わりに『下級乳魔』を生成する。=Partner only: When summoned, all abilities you cast that would draw a 'Lower-Class Succubus' from outside the deck, draw a 'Lower-Class Cow Succubus' instead for the rest of the duel.
+
 //Squeezer: Black Iron Succubus
 彼女が授けた金属で人は有り余る収穫を得るようになった。するとある者は自分だけ怠けられる仕組みを考えた。やがて人は金属を武器に変えて他者から奪うようになった。収奪した富で豊かに暮らす人々を見て、彼女は考えることを止めた。=She used to use her gifts of Metalworking to provide tools to struggling villages, but one day a stranger reforged her tools into weapons in order to rob travelers. Without trade, her villages wasted away, and her once-generous heart closed for good.
 黒鉄と我欲の淫魔=Selfish Succubus of Black Iron
@@ -202,19 +106,9 @@ E 巨乳化限定 乳尻属性\n搾精(2)\n『偽造DLR』を自陣に1体生成
 攻撃対象を選択してください（右クリックでキャンセル）=Select an attack target, or right-click to cancel.
 敗北搾精END（シーン未実装）あなたの勝利です。=Instant Death END (scene not implemented)\nYour opponent isn't getting up...\n 
 敗北搾精END（シーン未実装）あなたの敗北です。=\nYour pelvis has been crushed.\nInstant Death END (scene not implemented)
-//Squeezer: Angelic Succubus
-尊大な淫魔=Heavenly Succubus
-とある宗教組織にて霊的な存在とされている淫魔。常に力をひけらかしているがより高位な存在の代理に過ぎず、その命に従って信者の精を貪る。彼女の純潔を守っていた下着は何者かに奪われてしまい、応急処置として市販の絆創膏を代用している。=A Greater Succubus who has become a figure of worship for a local religion. She likes to show off her powers, but is simply a Succubus, and must drain her followers regularly. Her underwear is often stolen so she uses a common bandage to protect her purity.
-E 巨乳化限定 乳属性\n搾精(2)\n『天魔の巨兵』を1体自陣に出す。\n封印状態の時、追加でこの搾精者に束縛1を付与する。=Big-Breast Attribute: Squeeze <color%3D#00ff00>(-2)</color>, summon a 'Grand Angelic Warrior' to your field.\nAdditionally, when <color%3D#ff00de>Sealed</color>, this card cannot act on your next turn.
-E 吸精 ＊属性\n搾精(2) 封印減少(2)\nこのカードの信仰値を1上昇する。\n封印解除時、追加で搾精(2)、搾精対象の陣に『肛奴隷の紋章』を生成する。=Anal Attribute: Squeeze <color%3D#00ff00>(-2)</color>, Unseal <color%3D#ff00de>(-2)</color>, Faith <color%3D#ffff00>(+1)</color>.\nWhen <color%3D#ff00de>Unsealed</color>, Squeeze <color%3D#00ff00>(-4)</color>, Faith <color%3D#ffff00>(+1)</color> instead and summon 'Mark of Holy Devotion' to the target's side of the field.
-E ♀＊属性\n搾精(2) 想力生成(1) 封印減少(1)\n封印解除時、次の自ターン終了時まで全てのプレーヤーは「奇蹟」のカードとその能力を発動できない=Anal/Vaginal Attributes: Squeeze <color%3D#00ff00>(-2)</color>, Generate <color%3D#009eff>(+1)</color>, Unseal <color%3D#ff00de>(-1)</color>.\nAdditionally, when <color%3D#ff00de>Unsealed</color>, both players cannot activate 'Miracle' cards or their effects, except for 'Intrinsic' effects, until the end of your next turn.
-肛奴隷の紋章=Mark of Holy Devotion
-常在能力 \nあなたは＊属性の搾精攻撃を守護者で防ぐことができない。=You may be targeted directly with 'Anal' attribute abilities.\nThis effect is 'Intrinsic' and cannot be negated.
-あなたが＊属性で搾精された時、搾精者を除く全ての手札のコストを1増加する。=When squeezed with 'Anal' attribute abilities, increase the cost of all non-squeezer cards in your hand by <color%3D#009eff>(+1)</color>.
-場に出た時、自身のATKとLIFEをX上昇する。Xは自陣の全てのカードの信仰値の合計に等しい=When summoned, gain <color%3D#ff0000>ATK</color>/<color%3D#00ff00>LIFE</color> equal to the '<color%3D#ffff00>Faith</color>' value of all cards on your field.
-守護者 災厄、天魔=Angelic Disaster, Minion
-守護者 災厄、天魔、亡者=Undead Angelic Disaster, Minion
-天魔の巨兵=Grand Angelic Warrior
+
+
+
 //Squeezer: Adept Secretary
 多くの著名人を陰で支えるやり手の秘書。相手を立てて行動を起こさせる術に長け、僅かな間に何人もの男を成功に導いてきた。しかしやがて彼らは失脚することになり、その時には最早彼女の姿はない。=A highly-skilled Secretary whose portfolio boasts multiple prominent celebrities. She is skilled at forcing her opponents into making mistakes, and uses this talent to guide men into fame and success. When they faded from relevance, she would vanish without a trace.
 世渡り上手な秘書=Adept Secretary
@@ -235,6 +129,7 @@ E 尻属性\n連携(自陣の『黒鉄と我欲の淫魔』を行動済にする
 常在能力 \nあなたが尻属性で搾精される場合、その能力の追撃+1\n常在能力 \nあなたは尻属性の搾精攻撃を守護者で防ぐことができない。=You may be targeted directly with 'Ass' attribute abilities.\nThis effect is 'Intrinsic' and cannot be negated.\n'Ass' Attribute abilities that target you gain +1 Pursuit.\nThis effect is 'Intrinsic' and cannot be negated.
 常在能力 \nあなたは尻属性の搾精攻撃を守護者で防ぐことができない。=You may be targeted directly with 'Ass' attribute abilities.\nThis effect is 'Intrinsic' and cannot be negated.
 常在能力 \nあなたが尻属性で搾精される場合、その能力の追撃+1='Ass' Attribute abilities that target you gain +1 Pursuit.\nThis effect is 'Intrinsic' and cannot be negated.
+
 //Squeezer: Milk Demon
 オフィス街でミルクスタンドを切り盛りする淫魔。焼きたてワッフルの甘い匂いととびきりの笑顔は企業戦士の心のオアシス。この店限定の栄養満点搾り立てミルクは一度味わうと病みつきになる中毒性がある。常連客はミルクの製造工程を体験できるらしいが……？=A Succubus who runs a food stand in the Office District. The smell of fresh bread and her wide smiles are an oasis to the corporate wage slave. The milk used in her products is nutritious, freshly-squeezed, exclusive, and highly addictive.
 ミルク売りの淫魔=Milk Demon Bakery Owner
@@ -246,6 +141,7 @@ E 乳手属性\n搾精(4)封印減少(1)\nこの搾精者の母乳値を2減ら�
 常在能力 \nあなたは乳属性の搾精攻撃を守護者で防ぐことができない。=Your opponent can attack you directly with Breast-Attribute abilities. This ability is 'intrinsic' and cannot be negated.
 あなたが乳属性で搾精された時、手札に『乳魔依存症』を1枚加える。=When you are squeezed with a breast-attribute ability, add one "Milk addiction" to your hand.
 乳奴隷の紋章=Breast Slave Crest
+
 //Squeezer:Battle Fuck CP
 BF同好会会長 栞=BF Club President
 温和そうな表情と妖艶な肢体を兼ね揃えたとある女学生。\n彼女の友人曰く、『○○○が清楚の面を被っているような輩』とのこと。=An older student with a soft expression and a bewitching body. Her friends claim she is merely 'Wearing a nice face.'
@@ -264,26 +160,22 @@ sr:"回避(\d+)"="Evasion $1"
 栞の自動オナホール=Industrial Fleshlight
 常在能力 \nこのカードは『自動搾精装置（抽挿型）』として扱う。=This card's name on the field is treated as 'Industrial Vibrator'\nThis effect is 'Intrinsic' and cannot be negated.
 ターン開始時、あなたを搾精(1)する。想力生成(1)=At the start of your turn, Squeeze <color%3D#00ff00>(-1)</color>, Generate <color%3D#009eff>(+1)</color>.
-//Squeezer:Legendary Succubus
-傾国の存在証明 マリアネラ=Legendary Succubus Marianela
-「白く長い髪と山のような背丈をもつ細目のその女、大国の経済をも揺るがした」\n二千年前の伝説に遺された記は今もなお紛れもない事実として時を刻み続けている=Legends speak of a woman with long white hair and a build comparable to a mountain who crashed a mighty nation's economy with naught but her body over two thousand years ago. This surely cannot be the same Succubus... Right?
-吸精 ♀属性\n各プレイヤーのターン開始時、そのプレイヤーを搾精(1)する。封印を1減少する。\n封印解除時、搾精されたプレイヤーは自陣の搾精者及び『マリアネラの淫紋』を除くカードを1枚捨札に送る。それができない場合、そのプレイヤーの場に『マリアネラの淫紋』を出して、このカードを持ち主の山札に戻して山札をシャッフルする。=Vaginal Attribute: At the beginning of each player's turn, Squeeze <color%3D#00ff00>(-1)</color> Unseal <color%3D#ff00de>(-1)</color>.\nIf <color%3D#ff00de>Unsealed</color>, the target must send 1 non-squeezer card from their field to the graveyard. This card cannot be 'Marianela's Womb Tattoo'.\nIf there are no valid targets, summon 'Marianela's Womb Tattoo' to the target's field and shuffle this card into her original owner's deck.
-常在能力 \nあなたが精力を失う場合、1多く失う。=When you lose <color%3D#00ff00>health</color>, lose <color%3D#00ff00>(1)</color> extra.\nThis ability is 'Intrinsic' and cannot be negated.
-マリアネラの淫紋=Marianela's Womb Tattoo
-場に出た時、『下級淫魔』を1体自陣に出す=When summoned, summon 1 'Lower class Succubus' to your field from outside your deck.
-E 吸精 ♀属性\n搾精(1)想力生成(1)=Vaginal Attribute: Squeeze <color%3D#00ff00>(-1)</color> Generate <color%3D#009eff>(+1)</color>.
+
 //Squeezer:Generic
 無制限=Generic
 <color%3D#ff9e00>「無制限」</color>\nこのカードは3枚以上デッキに入れることができる。搾精者の場合、パートナーに指定することはできない。=<color%3D#ff9e00>"Generic"</color>\nThis card is not limited to 3 copies per deck. If on a squeezer, she cannot be made your partner.
 下級淫魔=Lower-Class Succubus
+
 //Squeezer:Cow Generic
 E 吸精 乳属性\n搾精(2)する。想力生成(2)=Big breast Attribute: Squeeze <color%3D#00ff00>(-2)</color> Generate <color%3D#009eff>(+2)</color>.
 このカードは行動済で場に出る。=This card cannot act the turn it is summoned.
 下級乳魔=Lower-Class Cow Succubus
 E 乳属性\n母乳値が2以上の時に使用可能。\n母乳値を0にする。元の母乳値2毎にあなたの精力を1回復し、手札に『乳魔依存症』を1枚加える。=Breast Attribute: If this card's Breast Milk level is 2 or more; you may add 1 'Breastmilk Addiction' to your hand, and if you do, remove all Milk Levels from this card and heal for half the value removed.\nThis ability cannot be used on the opponent.\nPursuit does not affect this ability.
+
 //Squeezer: Trainee Succubus
 未熟な淫魔=Trainee Succubus
 E 吸精 ♀属性\n搾精(3)=Vaginal attribute: Squeeze <color%3D#00ff00>(-3)</color>
+
 //Squeezer:Android
 第0世代セクサロイド"SR-00"。SR社の挑戦はここから始まった。ビニール製。=Sex android model number SR-00. They were discontinued after it was discovered that overheating caused them to ignore external commands, forcefully fucking their owners until their power cells were drained... or their owners were.
 E 吸精 ♀属性\n搾精(1)想力生成(1)\n安全装置を1減少する。\n暴走状態の時、代わりに搾精(2)=Vaginal Attribute: Squeeze <color%3D#00ff00>(-1)</color>, Generate <color%3D#009eff>(+1)</color>, damage 'Safety Device'\nIf this card has '<color%3D#ff9e00>Overheat</color>', Squeeze <color%3D#00ff00>(-2)</color> instead.
@@ -313,8 +205,7 @@ sr:"安全装置(\d+)"="Reinforced\nDevice $1"
 転倒罠=Pitfall Trap
 『迅速』を持つ守護者が場に出て未行動の時に発動する。その守護者に1ダメージを与え、行動済にする=When a Minion with 'Haste' is summoned, deal 1 damage and prevent them from moving until the end of this turn.
 対象の搾精者の封印を3減少する。=Target a Squeezer, Unseal <color%3D#ff00de>(-3)</color>
-揮発型 災厄、呪詛=Volatile disaster, curse
-揮発型 災厄、淫魔術=Volatile Disaster, Sexual Magic
+
 覚醒の儀式=Awakening Ritual
 場の守護者1体を対象とする。その守護者のATKとLIFEをそれぞれ+2/-1する=Target a Minion on the field, apply <color%3D#ff0000>(+2) ATK</color> and <color%3D#00ff00>(-1) LIFE</color>.
 怨嗟=Curse of Prematurity
@@ -325,7 +216,7 @@ sr:"安全装置(\d+)"="Reinforced\nDevice $1"
 あなたの山札から「呪詛」または「淫魔術」のカードを1枚選ぶ。\nあなたの山札をシャッフルした後、そのカードを山札の先頭に置く。=Target a "Curse" or "Sexual Magic" card from your deck. Shuffle your deck, then place the chosen card on top.
 家畜には個体差があるので、それぞれに適したタイプをご用意してあります。=They came with a shipment of Hucows from a partnered farm. We have other means of milking our Hucows, so this equipment must find new purpose...
 ターン開始時、あなたを搾精(1)する。想力生成1\n自動搾精装置（吸引型）、自動搾精装置（振動型）、自動搾精装置（抽送型）があなたの場にある場合、代わりに搾精(2)する。想力生成2=At the start of your turn, Squeeze <color%3D#00ff00>(-1)</color> Generate <color%3D#009eff>(+1)</color>.\nIf you have Industrial 'Breast Pump', 'Milk Tank', and 'Vibrator' on your field; Squeeze <color%3D#00ff00>(-2)</color> Generate <color%3D#009eff>(+2)</color> instead.
-設置型 創造物、機械=Stationary Creation, Machine.
+
 自動搾精装置(抽送型）=Industrial Vibrator
 自動搾精装置(吸引型）=Industrial Breast Pump
 自動搾精装置(振動型）=Industrial Milk Tank
@@ -356,60 +247,45 @@ sr:"耐用(\d+)"="Durability $1"
 場に出た時、搾精者1体に想力増幅1を付与する。\nこのカードが場を離れた時、その搾精者の想力増幅1を解除する。=When summoned, equip this card to a squeezer on your side of the field. Give the equipped card 'Mana Amplification'.
 <color%3D#ff9e00>「想力増幅」</color>\nこのカードの能力で想力を生成する場合、数値分だけ追加で生成する。=<color%3D#ff9e00>"Mana Amplification"</color>\nWhen this card generates <color%3D#009eff>Mana</color>, generate extra <color%3D#009eff>Mana</color> equal to this value.\nNote: Does NOT work with Succubus Idol!
 sr:"想力増幅(\d+)"="Mana Amp $1"
-今日は鹿、一昨日は猪、先週は……=Yesterday, I hunted a Deer. The day before, Boar. Today...
-遠隔=Ranged
+
+
 <color%3D#ff9e00>「遠隔」</color>\n戦闘での攻撃時に相手からのダメージが発生しない。被攻撃時にはこちらのダメージが発生しない。=<color%3D#ff9e00>"Ranged"</color>\nThis card takes no damage when attacking. Other cards take no damage when attacking this card.
-守護者 人間、平民=Human Commoner Minion
-守護者 人間、平民、亡者=Undead Human Commoner Minion
-森の狩人=Forest Ranger
+
+
 野菜一つ、盗みだすのも命がけだ。　\n　　　　　　　　　　　　　　　　　　　　　　　～モヒカンA～="Stealing a Vegetable can also be a life-threatening event."\n-Mohikan
 <color%3D#ff9e00>「長柄」</color>\n戦闘時に相手が「長柄」を持たず、戦闘で相手のLIFEを0にする場合、相手からのダメージが発生しない。=<color%3D#ff9e00>"Long Handle"</color>\nWhen battling, if this card will kill the opponent's card, this card takes no damage.
-長柄=Long\nHandle
-強かな農民=Peasant Militia
-守護=Protector
-自警団員=Vigilante
-命を省みずに主を守るのは、そのために生を受けたということを知っているからだ。=She was bought from a Partnered farm along with her herd. Her life spent cooped up in milking stalls have left her weak and lazy, but also soft and docile.
-守護者 自然、獣=Natural Beast Minion
-守護者 自然、獣、亡者=Undead Natural Beast Minion
-先史人の猟犬=Farm-Bred Hucow
+
+
 あいつはひよっこだから、壊す方をやらせとけ。="I fixed five things and I broke five things. In IT terms, I came out ahead."\n-Dilbert
-E \n場の搾精者を除く創造物1つを捨札へ送る。\n対象のコストが2以上のとき、この守護者を捨札へ送る。=Target a non-squeezer 'Creation' on the field and send it to the graveyard.\nIf the cost of the target was <color%3D#009eff>2</color> Mana or more; Send this card to the graveyard.
-新米工兵=Novice Engineer
+
+
+
 山羊には山羊の、論理がある。=Goats like to travel in herds.
-場に出たとき、『山羊』を2体自陣に生成する。=When summoned, summon two 'Goats' to your field.
-山羊の群れ=Flock of goats
+
+
 山羊=Goats
-あなたの場に搾精者が出たとき、この守護者をATK+1、LIFE+1する。=When a Squeezer is summoned to your side of the field, add <color%3D#ff0000>(+1) ATK</color> and <color%3D#00ff00>(+1) LIFE</color> to this card.
-守護者 災厄、夢魔=Incubus Minion Disaster
-守護者 災厄、夢魔、亡者=Undead Incubus Minion Disaster
-夢魔の尖兵=Incubus Dreamer
-場から捨札に送られた時、対象の守護者1体を選んでもよい。\nその対象に1ダメージを与える。=When this card is sent from the field to the graveyard, you may target one Minion on the field and inflict <color%3D#00ff00>(-1) LIFE</color>.
-守護者 災厄、霊魂=Spirit Minion Disaster
-守護者 災厄、霊魂、亡者=Undead Spirit Minion Disaster
-守護者 災厄、亡者、霊魂=Undead Spirit Minion Disaster
-怨霊=Grief Demon
-場に出たとき、対象の裏向きの反応型カード1枚を表にする。=When summoned, you may target a face-down Reactive card, turn it face up.
-このカードを捨札に送る\n対象の反応型カード1枚を捨札に送る。=Target one Reactive card, send both this card and the target to the graveyard.\nThis ability is a free action.
+
+
 <color%3D#ff9e00>「騎兵」</color>\nこの守護者は反応型カードの対象とならない。=<color%3D#ff9e00>"Cavalry"</color>\nThis Minion does not trigger Reactive cards.
 騎兵=Cavalry
-優秀な斥候=Swift Scout
-E \n対象の裏向きの反応型カードまたは相手の手札1枚を表にする。=Target a face-down Reactive card or a card in the opponent's hand, turn it face up.\nMulti-Attack does not affect this ability.
-カラスの使い魔=Harpy Familiar
-あなたの精力が2以上回復する度にこの守護者をATK+1、LIFE+1する。=When you heal <color%3D#00ff00>(2) Health</color> or more, this card permanently gains <color%3D#ff0000>(+1) ATK</color> and <color%3D#00ff00>(+1) LIFE</color>.
-大地の獅子=Evolving Manticore
+
+次元上昇=Возвышение
+あなたの手札のコストは0になる。\nあなたが搾精者を場に出した場合、その封印値は0になる。=Все карты в вашей руке стоят <color%3D#009eff>(0)</color>.\nВсе карточки суккубов, с которыми вы играете, будут  '<color%3D#ff00de>Возвышены</color>'.
+常在能力 \nあなたの手札のコストは0になる。\nあなたが搾精者を場に出した場合、その封印値は0になる。=Все карты в вашей руке стоят <color%3D#009eff>(0)</color>.\nВсе карточки суккубов, с которыми вы играете, будут '<color%3D#ff00de>Возвышены</color>'.\nДанный модификатор нельзя отменить.
+
+
 オナホール職人の朝は早い……=Workdays start early for this Craftsman...
-場に出たとき、自分の山札から「オナホ」のカードを1枚選んでもよい。\nそのカードを手札に加えて山札をシャッフルする。=When summoned, you may target a 'Fleshlight' card in your deck. Add the card to your hand and shuffle the deck.
-伝説のオナホ職人=Legendary Fleshlight Craftsman
-天魔の霊玉=Angel's Soul Stone
-自陣の信仰値が増える度、想力生成(1)=While this Minion is on the field, each time you gain <color%3D#ffff00>Faith</color>, Generate <color%3D#009eff>(+1)</color>.
+
+
+
+
 我々はなぜ、大きなおっぱいに惹かれるのか。　\n　　　　　　　　　　　　　　　　　　　　　　　　　～とある古代の哲学者～="A man should not strive to eliminate his complexes but to get in accord with them:\nthey are legitimately what directs his conduct in the world.\n　　　　　　　　　　　　　　　　　　　　　　　　　				-Sigmund Freud
 場の創造物以外の搾精者1体を巨乳化する.。\nカードを1枚引く。=Target one non-creation squeezer on the field, add 'Big Breasts' to their attributes. Draw a card.
-揮発型 自然、奇蹟=Natural Volatile Miracle
+
 巨乳化=Big Breasts
-想力花=Bountiful Alarune
-守護者 自然、植物=Natural Plant Minion
-守護者 自然、植物、亡者=Natural Plant Minion
-E \n想力生成(1)=Generate <color%3D#009eff>(+1)</color>\nMulti-Attack does not affect this ability.
+
+
+
 場の創造物以外の搾精者1体に「母乳体質」と母乳値(2)と以下の能力を付与する。\n"母乳値が2以上の時に使用可能。母乳値を0にする。元の母乳値2毎に精力を1回復する。"\nカードを1枚引く。=Draw a card.\nTarget a squeezer on the field, grant them 'Lactation', 2 'Breast Milk' levels, and a new ability; if this card's Breast Milk level is 2 or more; you may set the level to 0 and heal <color%3D#00ff00>(+1)</color> for every 2 levels removed.\nThis ability cannot be used on the opponent.\nPursuit does not affect this ability.\nThis ability does not cost an action.
 母乳体質化=Breastfeeding
 その一滴、プレミアム。=The rules prohibit external tools in duels, including food and drink, so players turned to other means of mid-game refreshment...
@@ -484,20 +360,20 @@ SRチケット（肛）=SR ticket (anal)
 大人のさりげない気遣い=There's no safer storage than putting your stuff in a box and hanging a sign on it saying 'Caution: Booby trap.'
 E \n想力(2) カードを1枚引く。=Cost <color%3D#009eff>(-2)</color>: Draw a card.
 茂みのエロ本=Friendly Mimic
-常在能力 \n自陣の平民の守護者全てのLIFEを1上昇させる。=All 'Commoners' on your side of the field gain <color%3D#00ff00>(+1) LIFE</color>.\nThis effect is 'Intrinsic' and cannot be negated.
-山村の従士長=Inspiring Captain
+
+
 主の帰還を信じて、彼らは種をつなぎ続ける。=Her life is wild and free with her herd, playing with her sisters and lactating happily. They're quite shy, but an easy way to lure them is to take off your clothes...
 俊敏な狼=Free-range Hucow
 放っておくと、あっという間に増えて搾り尽くされるぞ！=They're a novice summoner's best friend, easy to tame with offerings of fluids, but they reproduce rapidly, and will overwhelm anyone if not tended to.
 この能力は自陣に「搾精スライム」が4体以上存在する場合に発動できる。\n自陣の「搾精スライム」を全て抹消する。その後巨大スライム(自然、獣、陽炎)を1体自陣に生成する。そのATK及びLIFEはそれぞれ抹消した全ての「搾精スライム」のATK、LIFEの合計に等しい。=If there are four or more 'Multiplying Slime' on your field, you may banish all of them to summon a 'Queen Slime' with the combined ATK and LIFE of all slimes banished by this ability.
-この能力は自陣に『搾精スライム』が4体以上存在する場合に発動できる。\n自陣の『搾精スライム』を全て抹消する。その後巨大スライムを1体自陣に生成する。そのATK及びLIFEはそれぞれ抹消した全ての「搾精スライム」のATK、LIFEの合計に等しい。=If there are four or more 'Multiplying Slime' on your field, you may banish all of them to summon a 'Queen Slime' with the combined <color%3D#ff0000>ATK</color> and <color%3D#00ff00>LIFE</color> of all slimes banished by this ability.
+
 巨大スライム=Queen Slime
-自分のターン終了時、あなたを搾精(1)する。「搾精スライム」を1体自陣に生成する=At the end of your turn, squeeze <color%3D#00ff00>(-1)</color>, summon 'Multiplying Slime' to your field from outside your deck.\nMulti-Attack does not affect this ability.
-搾精スライム=Multiplying Slime
+
+
 あなたの場に搾精者が出たとき、対象の守護者1体を選んでもよい。\nその対象に2ダメージを与える。=If you summon a squeezer while this card is on your side of the field, you may target a minion on the field and inflict <color%3D#00ff00>(-2) LIFE</color>.
 夢魔の術師=Incubus Preacher
-あなたの場に搾精者が出たとき、あなたの精力を2回復する。=If you summon a squeezer while this card is on your side of the field, you heal <color%3D#00ff00>(+2)</color>.
-夢魔の癒し手=Incubus Milk Cow
+
+
 このカードが山札から捨札に送られた時、この守護者を場に出す。=When this card is sent from the deck to the graveyard, summon it.
 このカードが手札から捨札に送られた時、この守護者を場に出す。=When this card is sent from the hand to the graveyard, summon it.
 書庫の亡霊=Spirit of the Library
@@ -505,8 +381,7 @@ E \n想力(2) カードを1枚引く。=Cost <color%3D#009eff>(-2)</color>: Draw
 この守護者のLIFEが永続的に増える度に、この守護者のATK+1=When this minion's <color%3D#00ff00>LIFE</color> increases permanently, grant <color%3D#ff0000>(+1) ATK</color>.
 騎士見習い=Knight's Squire
 E \n場の耐用または安全装置を持つ創造物1つを対象にする。\nその耐用または安全装置を+1する。=Target a Creation with either a 'Safety Device' or 'Durability' value on either side of the field. Add +1 to that value.\nMulti-attack does not affect this ability.
-守護者 創造物、機械=Minion Creation, Mechanical
-守護者 創造物、機械、亡者=Minion Creation, Mechanical, Undead
+
 万能保守ロボット=Maintenance Droid
 常在能力 \n自陣の平民の守護者全てのATKを1上昇させる。=All 'Commoner' Minions on your side of the field gain <color%3D#ff0000>+1 ATK</color>.
 山村の若領主=Princess of the Mountain Clan
@@ -571,8 +446,7 @@ E \n場の耐用または安全装置を持つ創造物1つを対象にする。
 <color%3D#ff9e00>「盗品」</color>\nそれは盗品だ。\n（対戦相手の山札から自分の手札にカードを加えた場合、カードにこの能力が付与される。）=<color%3D#ff9e00>"Stolen Card"</color>\nThis card originally belonged to the Opponent.\nIf discarded, will be sent to their graveyard, and some card abilities reference their 'Original' owners.
 常在能力 \n創造物以外の自陣の搾精者は追撃2を得る。=Non-creation Squeezers on your side of the field gain Pursuit 2.\nThis effect is 'Intrinsic' and cannot be negated.
 あなたのターン開始時、創造物以外の自陣の搾精者に淫紋刻印を付与する。=At the start of each of your turns, apply 'Lust Mark' to all non-creation squeezers on your side of the field.
-設置型 災厄、呪詛=Stationary Disaster, curse
-設置型 災厄、淫魔術=Stationary Disaster, Sexual Magic
+
 破滅の契約書=Devil's Bargain
 『下級淫魔』を2枚生成して1枚を手札に加え、もう1枚を行動済状態で場に出す。=Summon one 'Lower Class Succubus' to your field from outside your deck, she cannot act this turn.\nAdditionally, add one 'Lower Class Succubus' to your hand from outside your deck.
 淫魔招集=Succubus Convocation
@@ -583,8 +457,7 @@ E \n場の耐用または安全装置を持つ創造物1つを対象にする。
 場に出た時、搾精者1体に追撃1を付与する。\nこのカードが場を離れた時、その搾精者の追撃1を解除する。=Equip to a non-creation squeezer, grant them Pursuit 1.\nThis effect is removed if this card is unequipped or sent to the graveyard, but NOT if control is exchanged.
 追撃の指輪=Hunter's Ring
 常在能力 \nあなたが精力を回復するとき、回復量を+1する。=When you heal, heal <color%3D#00ff00>(+1)</color> extra.\nThis effect is 'Intrinsic' and cannot be negated.
-設置型 創造物、自然=Natural Stationary Creation
-設置型 創造物、指輪=Stationary Ring Creation
+
 強壮の芳香=Potent Ingredients
 常在能力 \nあなたが乳属性で精力を2以上搾精されるとき、その値を1減少する。=When you take damage from a 'Breast' attribute ability, reduce the damage taken by 1 (minimum 1).\nThis effect is 'Intrinsic' and cannot be negated.
 抗乳の輪=Protection Ward (Breast)
@@ -612,12 +485,10 @@ sr:"再攻撃(\d+)"="Multi\nAttack $1"
 場に出る際、未行動状態となる。=This card may take multiple actions in a single turn.
 荒ぶる猪=Hucow Twins
 あなたのターン開始時、捨札にこのカードがあるときに発動する。\n搾精(3)して、このカードを場に出す。=At the start of your turn, if this card is in the graveyard: Squeeze <color%3D#00ff00>(-3)</color>, summon this card to your side of the field.
-守護者 災厄、亡者、霊魂、亡者=Undead Spirit Minion Disaster
-守護者 災厄、夢魔、亡者=Undead Spirit Minion Disaster
+
 吸精霊=Regenerating Slave
 あなたの精力が2以上回復する度に自陣の守護者1体を選び、そのATK+1、LIFE+1する。=When you heal <color%3D#00ff00>(2) Health</color> or more, you may target a Minion on your side of the field, that card gains <color%3D#ff0000>(+1) ATK</color> and <color%3D#00ff00>(+1) LIFE</color>.
-守護者 災厄、幻魔=Disaster Minion, Lesser Demon
-守護者 災厄、幻魔、亡者=Disaster Minion, Lesser Demon, Undead
+
 幻魔の付与術師=Incubus Surgeon
 常在能力 \n=This effect cannot be negated.\nTl note: Someone fucked up.
 雷の精霊=Lightning Spirit
@@ -626,8 +497,7 @@ sr:"再攻撃(\d+)"="Multi\nAttack $1"
 「迅速」または「騎兵」を持つ守護者がこの守護者を攻撃した際に発動する。\n双方を捨札へ送る。=When a minion with 'Haste' or 'Calvary' attacks this minion, send both cards to the graveyard.
 杭=Barricade
 無害=Immobile
-守護者 創造物=Creation Minion
-守護者 創造物、亡者=Undead Creation Minion
+
 <color%3D#ff9e00>「無害」</color>\nこの守護者は攻撃ができず、搾精攻撃を防ぐこともできない。=<color%3D#ff9e00>"Immobile"</color>\nThis Minion cannot attack, and enemy Squeezers are not stopped by it.
 あなたの場に搾精者が出たとき、『夢魔の滴』を1体自陣に生成し、それに陽炎を付与する。=When a squeezer is summoned to your side of the field while this card is on your field, summon 'Dream Drop' to your field from outside your deck, and add 'Mirage' to its attributes.
 夢魔の滴=Dream Drop
@@ -644,7 +514,7 @@ E \nこの能力は相手に搾精攻撃可能な時に発動できる。\n相�
 いずれかのカードがこのターン初めてあなたを乳属性能力の対象としたとき、おっぱい値を1増加する。=When you are squeezed by a 'Breast' or 'Big Breast' attribute ability, increase the 'Milk' Level of this card by 1.\nA single squeezer cannot raise this level more than once per turn.
 場に出たとき、互いの精力を8回復する。\nこのターンにあなたを乳属性能力の対象としたカードの数だけおっぱい値を増加する。=When played, increase the 'Milk' level of this card by 1 for every 'Breast' or 'Big Breast' attribute ability used on you this turn. Additionally, both players Heal <color%3D#00ff00>(+8)</color>
 ターン終了時、おっぱい値が8以上のとき、あなたはゲームに勝利する。\nそうでなければおっぱい値を0にする。=At the end of each player's turn but before idle squeezers activate their forced squeezing, if the 'Milk' Level of this card is 8 or more, you win the duel.\nOtherwise, set the value to 0 instead.
-設置型 自然、奇蹟=Natural Stationary Miracle
+
 おっぱいは地球を救う=Breasts Save the World
 sr:"おっぱい(\d+)"="Milk $1"
 あなたの場の守護者が捨札に送られたとき、山札からそのコスト+1の守護者をランダムに1枚手札に加える。=When a minion is sent from your field to the graveyard, add one random minion from your deck to your hand that costs <color%3D#009eff>(+1)</color> (Minimum 2).
@@ -691,14 +561,13 @@ E \nこの能力は相手に搾精攻撃可能な時に発動できる。\nこ�
 人さらい=The People
 ま、事故にあったと思って諦めるこった。=Not all dragons were legends. Some are survivors.
 場に出たとき、全ての守護者に1ダメージを与える。=When summoned, inflict <color%3D#00ff00>(-1) LIFE</color> to all minions on the field.
-守護者 自然、竜=Natural Dragon Minion
-守護者 自然、竜、亡者=Nautral Dragon Minion, Undead
+
 はぐれ地竜=Wandering Dragon
 場に出たとき、対象の敵陣の守護者1体に4ダメージを与える。=When summoned, you may target one minion on your opponent's field, inflict <color%3D#00ff00>(-4) LIFE</color> to them.
 はぐれ火竜=Stray Fire Dragon
 常在能力 \n自陣の「情報連結兵器」の守護者全てのATK+1=All 'Networked Machine' Minions on your side of the field gain <color%3D#ff0000>(+1) ATK</color>.\nThis effect is 'Intrinsic' and cannot be negated.
 常在能力 \n自陣の「情報連結兵器」の守護者全てのLIFE+1=All 'Networked Machine' Minions on your side of the field gain <color%3D#00ff00>(+1) LIFE</color>.\nThis effect is 'Intrinsic' and cannot be negated.
-守護者 創造物、機械、情報連結兵器=Creation Minion, Mechanical, Networked Machine
+
 守護者 創造物、機械、情報連結兵器、亡者=Creation Minion, Mechanical, Networked Machine, Undead
 常在能力 \nあなたが場に出した「情報連結兵器」は迅速を持つ=All 'Networked Machine' Minions on your side of the field gain 'Haste'.\nThis effect is 'Intrinsic' and cannot be negated.
 常在能力 \n自陣の「情報連結兵器」の守護者全ては騎兵を持つ=All 'Networked Machine' Minions on your side of the field gain 'Cavalry'.\nThis effect is 'Intrinsic' and cannot be negated.
@@ -738,11 +607,7 @@ E \n想力生成(X)\nXは自陣の全てのカードの信仰値の合計に等�
 人類の叡智の結晶がここに……！\n※クーリング・オフ対象外=The power of the Succubus... Harnessed and controlled by the limitless ingenuity of Humanity.
 場の創造物以外の搾精者1体を催眠状態にし、コントロールを得て未行動にする。\nこのカードが場を離れた時、その搾精者の持ち主がコントロールを得る。=Equip this card to a non-creation squeezer on your opponent's field, take control of it.\nWhen this card leaves the field, the equipped squeezer returns to its original owners control.
 催眠Phone=Hypnosis Phone
-穏やかな占術師=Нежная Предсказательница
-繁華街の路地裏でひっそりと占いを営む女性。全てを見通しているかのような彼女の助言は、多くの悩める人を前向きにする。男性限定の特別な占いを受けた者は機運を大きく転換するが、憑りつかれたかのように彼女のもとへ足蹴く通うことになる。=Женщина, которая имеет тихий магазин предсказаний в глухом переулке. Её советы на удивление проницательны и приносят надежду тем, кому не повезло. У неё есть особые услуги для мужчин, который делает их счастливее, но заставляет их часто возвращаться, как одержимых.
-E 吸精 ♀手属性\n搾精(1)\n搾精対象の山札の上から3枚見て、好きな順番に並び替えて戻す。=Руки / Вагина: Сжатие <color%3D#00ff00>(-1)</color>. Взгляните на верхние карты врага, а после положите их в обратном порядке.
-E 手属性\n搾精(1)想力生成(1)\nオナホ装備時、この能力の追撃+1=Руки: Сжатие <color%3D#00ff00>(-1)</color>, Создаёт <color%3D#009eff>(+1)</color>. Если используется 'Мастурбатор', Эта способность имеет 'Цель 1'.
-E 巨乳化限定 乳属性\n搾精(1)\n搾精対象の山札の上から3枚見る。あなたはその中から「奇蹟」のカードを1枚手札に加えても良い。その後山札をシャッフルする。=Большая грудь: Сжатие <color%3D#00ff00>(-1)</color>. Взгляните на верхние карты врага и замените одну из них на карту 'Чудо', затем перетасуйте колоду врага.
+
 催眠=Hypnosis
 魅了の指輪=Hypnotising Ring
 場に出た時、誘惑能力を持つ搾精者1体を対象として魅了を付与する。\nこのカードが場を離れた時、その搾精者の魅了を解除する。\n想力(2)\n魅了付与効果の対象を誘惑能力を持つ搾精者1体に変更する。=When summoned, equip to a Squeezer with a 'Temptation' ability. Grant that squeezer 'Charm' as long as this card is equipped.\nCost <color%3D#009eff>(2)</color>: Equip this card to another valid target.
@@ -752,8 +617,7 @@ E 巨乳化限定 乳属性\n搾精(1)\n搾精対象の山札の上から3枚見
 魅了=Charm
 場に出たとき、『従士』を2体自陣に生成する=When summoned, summon 2 'Retinue' to your field.
 従士=Retinue
-守護者 人間、騎士=Human Knight Minion
-守護者 人間、騎士、亡者=Undead Human Knight Minion
+
 帝国騎士=Royal Knight
 この守護者の攻撃時に発動する。\nあなたの手札の『獣』の守護者を1枚選んでも良い。そのコストを0にする。=When this minion declares an attack, select one 'Beast' type minion in your hand.\nIts mana cost becomes <color%3D#009eff>(0)</color>.
 古き獣の大長=Hucow Goddess
@@ -772,13 +636,12 @@ E 巨乳化限定 乳属性\n搾精(1)\n搾精対象の山札の上から3枚見
 自陣の吸精能力を発動可能な搾精者1体を選び、強制搾精させる。\n対象の、敵陣の創造物でない搾精者1体に「発情」を付与する。=Target a non-creation squeezer on the opponent's side of the field that does not have 'Estrus' (except Legendary Succubus), then target a squeezer that can act on yours. The former gets 'Estrus,' the latter force-squeezes.\nThis ability is a free action.\nNote: The squeezer you use CAN be a Creation!
 強制搾精を行う自陣の搾精者を選んでください=Target a squeezer on your side of the field to force-squeeze you.
 場に出たとき、守護者か設置型か反応型の場のカードを1つを対象に選んでもよい。\nそのカードのスタック全てを捨札に送る。=When summoned, target one Minion, Stationary, or Reactive card (or stack of cards) on the field.\nDestroy it and send it to the graveyard.
-守護者 災厄、悪魔=Greater Demon Minion Disaster
-守護者 災厄、悪魔、亡者=Undead Greater Demon Minion Disaster
+
 粉砕する悪魔=Crushing Demon
 場に出たとき、自分の山札からカードを1枚選んでもよい。\nそのカードを手札に加えて山札をシャッフルする。=When summoned, target 1 card in your deck and add it to your hand, then shuffle your deck.
 願いの悪魔=Demon of Wishes
 三頭竜=Three-Headed Hydra
-場に出たとき、場の全ての設置型カードを捨札に送る。=When summoned, send all 'Stationary' cards on the field to the graveyard.
+
 暴風の悪魔=Storm Devil
 場に出たとき、対象の敵陣の守護者1体にXダメージを与えてあなたの精力をX回復する。\nXは自陣の全てのカードの信仰値の合計に等しい=When summoned, target one enemy minion, deal damage to them equal to the total <color%3D#ffff00>Faith</color> value of all cards on your field, and if you do, <color%3D#00ff00>Heal</color> for the same amount.
 採魂の天魔=Reaper of Souls
@@ -789,33 +652,10 @@ E 巨乳化限定 乳属性\n搾精(1)\n搾精対象の山札の上から3枚見
 ささやく悪魔=Whispering Demon
 場に出たとき、このカードを除く場の全ての守護者に3ダメージを与える。=When summoned, deal <color%3D#ff0000>3</color> damage to all minions on the field except this card.
 裁きの悪魔=Judgement Demon
-場に出たとき、あなたの精力を4回復し、その後あなたの精力を3回復する。=When summoned, <color%3D#00ff00>Heal +4</color>, then <color%3D#00ff00>Heal +3</color>.
-慈愛の悪魔=Bountiful Demon
-あなたのターン終了時、捨札にこのカードと他の守護者が5枚以上あるときに発動する。\n捨札にあるこのカード以外の守護者カードをランダムに5枚抹消する。\nそれができた場合、このカードを場に出す。=At the end of your turn, if there are 5 or more 'Minion' cards in your graveyard including this card; summon this card and banish 5 minion cards from your graveyard, chosen at random.
-守護者 災厄、亡者=Undead Disaster Minion
-守護者 災厄、亡者、亡者=Undead Disaster Minion
-亡者の王=Queen of the Dead
-あなたの場に搾精者が出たとき、敵陣の全ての守護者のATKとLIFEを-1して、この守護者のATKとLIFEを+1する。=When a squeezer is summoned to your field while this card is on your field, inflict (<color%3D#ff0000>-1 ATK</color>/<color%3D#00ff00>-1 LIFE</color>) to all minions on your opponents side of the field, and add (<color%3D#ff0000>+1 ATK</color>/<color%3D#00ff00>+1 LIFE</color>) to this card.
-場に出た時、自身のATKとLIFEをX上昇する。Xは自陣の搾精者の数に等しい=When summoned, gain (<color%3D#ff0000>ATK</color>/<color%3D#00ff00>LIFE</color>) equal to the amount of Squeezers on your side of the field.
-根源の夢魔=Nightmare
+
+
+
 このカードが場に出たとき、あなたは手札が最低7枚になるように引く。=When summoned, draw cards until your hand has seven cards.
 常在能力 \n各プレイヤーはターン開始時に手札が最低7枚になるように引く。=At the start of each of their turns, instead of the normal draw phase, both players draw cards until they have 7 in their hand.\nThis effect is 'Intrinsic' and cannot be negated.
 特異点=Event Horizon
 各プレイヤーの捨札の全ての守護者を自陣に出す。\nそれらの属性に「亡者」を追加する。=Summon all Minions in both player's graveyards to your field, apply 'Undead' to their attributes.
-逢魔時=End of Entropy
-このカードが場に出た時、ターン終了時まで場の創造物以外の全ての搾精者を催眠状態にし、コントロールを得て行動可能にする。\nこのカードが場を離れた時、その搾精者の持ち主がコントロールを得る。=When summoned, take control of all non-creation squeezers on both sides of the field and refresh their actions.\nWhen this card leaves the field, all controlled squeezers are returned to their original owner's side of the field.
-催眠衛星=Hypnotic Satellite
-有史以来、稀に無尽蔵の精力を持つ者が誕生することがある。\nとある淫魔がこの者を篭絡したとき、大陸を揺るがす混乱が二度訪れた。=In all of known history, there have only been two recorded instances of individuals born with inexhaustible stamina. They were both claimed by Succubus, who proceeded to shake the world for years to come.
-自分のターン終了時、あなたの精力を16回復する。精力が100以上あるとき、ゲームに敗北する。=At the end of your turn, after squeezers activate their forced squeezing; heal <color%3D#00ff00>(+16)</color>.\nAfter this effect resolves, if you have over <color%3D#00ff00>99 Health</color>; you lose the duel.\nNote: The numbers to beware of are <color%3D#00ff00>84</color>, <color%3D#00ff00>68</color>, and <color%3D#00ff00>56</color>.
-無限の精力=Infinite energy
-淫魔災害=Succubus Disaster
-あなたの山札から「淫魔」、かつ「無制限」の搾精者カードを全て自陣に出す。\nその後、山札をシャッフルする。=Summon all non-creation 'Generic' squeezers from your deck to your field, then shuffle your deck.
-場に出たとき、このカードを除く守護者、設置型、反応型カードを捨札に送る。=When summoned, send all Minion, Stationary, and Reactive cards on the field to the graveyard.
-泡沫の竜王=Spectral Dragon King
-この守護者の攻撃時に発動する。\n場の対象の設置型1つを捨札に送ってもよい。=When this minion attacks, you may target one stationary card on the field, destroy it and send it to the graveyard.
-場に出たとき、相手ターン終了時まで自陣の守護者全てのATKとLIFE+3=When summoned, all minions on your side of the field gain +3 ATK/LIFE until the end of your opponents next turn.
-E \n場の対象の設置型1つを捨札に送る。=Target one stationary card on the field, destroy it and send it to the graveyard.
-暴走する本能=Wild Instincts
-あなたの手札のコストは0になる。\nあなたが搾精者を場に出した場合、その封印値は0になる。=All cards in your hand cost <color%3D#009eff>(0)</color>.\nAny Demonic squeezers you play will be '<color%3D#ff00de>Unsealed</color>'.
-常在能力 \nあなたの手札のコストは0になる。\nあなたが搾精者を場に出した場合、その封印値は0になる。=All cards in your hand cost <color%3D#009eff>(0)</color>.\nAny Demonic squeezers you play will be '<color%3D#ff00de>Unsealed</color>'.\nThese effects are 'Intrinsic' and cannot be negated.
-次元上昇=Ascension

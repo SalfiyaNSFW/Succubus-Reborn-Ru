@@ -1,0 +1,4 @@
+催眠衛星=Hypnotic Satellite
+有史以来、稀に無尽蔵の精力を持つ者が誕生することがある。\nとある淫魔がこの者を篭絡したとき、大陸を揺るがす混乱が二度訪れた。=In all of known history, there have only been two recorded instances of individuals born with inexhaustible stamina. They were both claimed by Succubus, who proceeded to shake the world for years to come.
+自分のターン終了時、あなたの精力を16回復する。精力が100以上あるとき、ゲームに敗北する。=At the end of your turn, after squeezers activate their forced squeezing; heal <color%3D#00ff00>(+16)</color>.\nAfter this effect resolves, if you have over <color%3D#00ff00>99 Health</color>; you lose the duel.\nNote: The numbers to beware of are <color%3D#00ff00>84</color>, <color%3D#00ff00>68</color>, and <color%3D#00ff00>56</color>.
+無限の精力=Infinite energy
