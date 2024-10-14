@@ -1,3 +1,0 @@
-淫魔災害=Суккуб-катастрофа
-あなたの山札から「淫魔」、かつ「無制限」の搾精者カードを全て自陣に出す。\nその後、山札をシャッフルする。=Summon all non-creation 'Generic' squeezers from your deck to your field, then shuffle your deck.
-場に出たとき、このカードを除く守護者、設置型、反応型カードを捨札に送る。=When summoned, send all Minion, Stationary, and Reactive cards on the field to the graveyard.
