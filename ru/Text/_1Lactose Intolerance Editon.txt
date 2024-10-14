@@ -6,30 +6,23 @@
 //Use your imagination to figure out which is which... Or select the untranslated line and Ctrl+F it in the deck edit file, that works too.
 //I still could make a picture set for these, TBH... Even if I'm unsure if I have enough wolves to go around.
 //Still, if you care enough to run the original translations, you'd probably prefer the original artwork, so that's still up for request.
-肛奴隷の紋章=Anal Slave Crest
-精力剤=Energy Drink
+
+肛奴隷の紋章=Анальный Раб
+精力剤=Энергетик
+
 一本ぐいっと飲んだら、20発はいけるよね～n※過剰な摂取は大変危険ですので、ご遠慮ください。=A single bottle can give a man an extra 20 ejaculations. Excessive intake can cause heart problems, use only as directed.
-BBQセット=BBQ set
+BBQセット=Набор для барбекю
 上手に焼けました～♪=You'd be surprised how good some things taste when cooked properly♪
-先史人の猟犬=Ancient Hound
+
+先史人の猟犬=Древняя гончая
 命を省みずに主を守るのは、そのために生を受けたということを知っているからだ。=Bred long ago to serve and protect their Lord, these prehistoric beasts continue to serve faithfully even now, without any regard for their own lives.
-封印の儀式=Sealing Ritual
-茂みのエロ本=The Kamasutra
+
+茂みのエロ本=Камасутра
 大人のさりげない気遣い=Everything you need to know to care for your partner... Or try out something new.
-俊敏な狼=Agile Wolf
+
+俊敏な狼=Проворный Волк
 主の帰還を信じて、彼らは種をつなぎ続ける。=They tirelessly work to keep their pack together, to protect the seeds of their Lord's Return.
-夢魔の癒し手=Incubus Healer
-鎮魂歌=Requiem
-淫魔の芳香=Succubus Perfume
-ヒグマ（寒冷地仕様）=Polar Bear
-荒ぶる猪=Rabid Boar
-輪廻転生=Reincarnation
-天啓=Revelation
-死霊術=Hired Necromancer
-群れの統率者=Pack Leader
-あなたのターン開始時、『狼』を1体自陣に生成する=At the start of each of your turns, summon 'Wolf' to your side of the field.
-狼=Wolf
-高次元の片鱗=Dimensional Shift
-古き獣の大長=The Lord of Ancient Beasts
-特異点=Singularity
-狂戦士の咆哮=Berserker's Roar
+
+夢魔の癒し手=Целитель-инкуб
+狼=Волк
+特異点=Сингулярность
