@@ -1,0 +1,13 @@
+ミルク売りの淫魔=Пекарка «Молочный демон»
+
+
+オフィス街でミルクスタンドを切り盛りする淫魔。焼きたてワッフルの甘い匂いととびきりの笑顔は企業戦士の心のオアシス。この店限定の栄養満点搾り立てミルクは一度味わうと病みつきになる中毒性がある。常連客はミルクの製造工程を体験できるらしいが……？=A Succubus who runs a food stand in the Office District. The smell of fresh bread and her wide smiles are an oasis to the corporate wage slave. The milk used in her products is nutritious, freshly-squeezed, exclusive, and highly addictive.
+
+E 乳属性\n連携(自陣の『安寧と盲従の淫魔』を行動済にする） 搾精(4) 想力生成(2)\n各連携カード毎に以下の効果を発生する。\n搾精者の母乳値を1減らす。封印解除時、代わりに母乳値を全て減らす。搾精対象は減らした母乳値と同じだけ精力を増加し、同じ枚数のカードを引いてそれらのカード全てに「乳魔の幻覚」を付与する。\nその後、全ての連携カードの封印減少(2)=Breast Attribute: Co-op Ability, requires a 'Succubus of Peaceful Submission' on your side of the field, and consumes her action as well.\nSqueeze <color%3D#00ff00>(-4)</color>, Generate <color%3D#009eff>(+2)</color>. Reduce the milk level of both squeezers by 1. When <color%3D#ff00de>Unsealed</color>, remove all milk levels. Heal for the total amount of milk levels removed, then the target draws cards equal to the amount and add 'Milky Mirage' to them. After this effect resolves, both squeezers Unseal <color%3D#ff00de>(-2)</color>.
+E 吸精 ♀属性\n搾精(2) 封印減少(2)\n封印解除時、追加で搾精(2)、搾精対象の陣に『乳奴隷の紋章』を生成する。=Vaginal Attribute: Squeeze <color%3D#00ff00>(-2)</color> Unseal <color%3D#ff00de>(-2)</color>. When <color%3D#ff00de>Unsealed</color>, Squeeze <color%3D#00ff00>(-4)</color> and summon 'Breast Slave Crest' to the target's side of the field instead.
+E 乳手属性\n搾精(4)封印減少(1)\nこの搾精者の母乳値を2減らす。そうしたならば搾精対象は精力を2増加してカードを1枚引き、そのカードに「乳魔の幻覚」を付与する。\n封印解除時、この能力の追撃+1=Hand, Breast Attribute: Squeeze <color%3D#00ff00>(-4)</color>, Unseal <color%3D#ff00de>(-1)</color>. Reduce the milk level of this card by 2. If you do, the target heals <color%3D#00ff00>(+2)</color>, draws a card, and gives that card 'Milky Mirage'. When <color%3D#ff00de>Unsealed</color>, this ability has Pursuit +1.
+<color%3D#ff9e00>「乳魔の幻覚」</color>\n各プレイヤーのターン終了時に搾精者でないこのカードがプレイヤーの手札にある場合、このカードは『乳魔依存症』に変化する。=<color%3D#ff9e00>"Milky Mirage"</color>\nNon-Squeezer cards with this ability become 'Breastmilk Addiction' if they are in your hand at the end of either player's turn.
+乳魔の幻覚=Milky Mirage
+常在能力 \nあなたは乳属性の搾精攻撃を守護者で防ぐことができない。=Your opponent can attack you directly with Breast-Attribute abilities. This ability is 'intrinsic' and cannot be negated.
+あなたが乳属性で搾精された時、手札に『乳魔依存症』を1枚加える。=When you are squeezed with a breast-attribute ability, add one "Milk addiction" to your hand.
+乳奴隷の紋章=Breast Slave Crest

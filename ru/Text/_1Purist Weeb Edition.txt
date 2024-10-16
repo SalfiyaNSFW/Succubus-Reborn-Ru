@@ -1,8 +1,11 @@
+// Это не трогайте! Оно не используется, т.к присутсвует _ в начале файла.
+
 //Purist Weeb Edition
 //Someone asked for 'Fleshlight' to be changed back to 'Onahole' for personal taste, without having to hunt them down and change it themselves. Fine, I guess, I'll just slap on another edition section, why not?
 //Instructions are in the Lactose Intolerance edition, but to summarize, remove the _ in this file's name to get these instead of their localized variants.
+
 デバイス連動機能の使用=Connect to Automatic Onahole
-高級オナホ=Luxury Onahole
+
 E 手属性n連携(自陣の『知恵と失望の淫魔』を行動済にする） 搾精(3) 想力生成(1)n全ての連携カードの封印減少(2)n搾精対象の山札の先頭からカードを3枚見て1枚を選ぶ。それを手札に加えて残りを捨札へ送る。n連携カードのいずれかがオナホ装備時、追加で『想力結晶』を自陣に生成する。n封印解除状態の連携カード毎に、この能力の追撃+1=Hand Attribute:This ability may only be cast when there is a Succubus of Wisdom and Disappointment on your field that can act, this ability consumes her action as well. Squeeze <color%3D#00ff00>(-3)</color>, Generate <color%3D#009eff>(+1)</color>, Draw three cards from the top of the target's deck, choose one to add one to your hand and send the remaining two to their owner's graveyard.nBoth squeezers Unseal <color%3D#ff00de>(-2)</color>.nIf either squeezer has an equipped Onahole, generate 1 'Mana Crystal.'nIf either squeezer is unsealed, this ability gains pursuit 1. This effect stacks.
 E 巨乳化限定 乳手属性n搾精(1) 封印減少(1)n搾精対象の山札からカードを1枚引いた後、手札を1枚選んで捨札へ送る。nオナホ装備時、この能力の追撃+1=Big Breasts Attribute: Squeeze <color%3D#00ff00>(-1)</color>, Unseal <color%3D#ff00de>(-1)</color>.nDraw a card from the target's deck, then choose a card to discard from your hand.nIf equipped with 'Luxury Onahole', this ability has Pursuit 1.
 E 手属性n搾精(2) 想力生成(1) 封印減少(1) n搾精対象の山札の一番上を見て、それを捨札に送っても良い。nオナホ装備時または封印解除時、代わりにそれを手札に加えても良い。=Hand Attribute: Squeeze <color%3D#00ff00>(-2)</color>,nUnseal <color%3D#ff00de>(-1)</color>, Generate <color%3D#009eff>(+1)</color>.nLook at the top card of the target's deck, and then send it to their graveyard./nIf unsealed or equipped with Onahole, add the card to your hand instead of discarding it.
@@ -12,7 +15,7 @@ E 吸精 手属性n搾精(2)封印を2減少する。想力生成(1)n封印解�
 栞の自動オナホール=Industrial Onahole
 使い捨てオナホ=Cheap Onahole
 <color%3D#ff9e00>「オナホ装備」</color>n手属性の能力が変化する。※効能には個人差があります。=<color%3D#ff9e00>"Equipped Onahole"</color>nModify this squeezer's hand-attiribute abilities as detailed in their ability description.
-高級オナホ=Luxury Onahole
+
 //Schoolgirl section. Mostly just changing her sibling play to their Japanese counterparts, plus one time she references a 'Sensei'. Technically unfinished, since every time I rephrased a line so she called herself your little sister instead of you her big brother... None of that is OG, so I don't know the actual weebism for Little Sister. Still, they're all here, I guess.
 //Ability1
 あれれ？nお兄さん、おちんちん丸出しだよ？n恥ずかしくないの～？=Aren't you embarrasednto be showing your dick in frontnof your little sister?
