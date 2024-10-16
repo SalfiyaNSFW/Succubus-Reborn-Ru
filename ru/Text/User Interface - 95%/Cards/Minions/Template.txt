@@ -1,0 +1,20 @@
+//Free-range Hucow
+俊敏な狼=Дикая Адская Гончая
+//Great Shield Soldier
+大盾兵=Великий Солдат-шитовик
+//Hucow Defender
+ヒグマ（寒冷地仕様）=Бурый медведь (Защитник)
+//Hucow Twins
+荒ぶる猪=Дикий кабан
+//Knight Templar
+聖堂騎士=Рыцарь-Тамплиер
+//Retinue
+強かな農民=Сельский фермер
+従士=Retinue
+//Storm Devil
+暴風の悪魔=Штормовой Дьявол
+//Three-Headed Hydra
+三頭竜=Гидра
+//Volunteer
+自警団員=Ленчеватель
+志願兵=солдаты-добровольцы
